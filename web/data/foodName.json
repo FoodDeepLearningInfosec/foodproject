@@ -1,0 +1,9003 @@
+{"item": [
+  {
+    "foodCd": "100003",
+    "foodNm": "가루전병",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100004",
+    "foodNm": "가물치국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "토장국",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100005",
+    "foodNm": "가물치회",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "생회",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100009",
+    "foodNm": "가시연꽃열매",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100010",
+    "foodNm": "가시연밥",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "밥류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "9"
+  },
+  {
+    "foodCd": "100016",
+    "foodNm": "가오리어채",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100017",
+    "foodNm": "가이주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100018",
+    "foodNm": "가자미",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100019",
+    "foodNm": "가자미국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100020",
+    "foodNm": "가자미젓",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "발효젓",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100021",
+    "foodNm": "가자미조림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "조림",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100022",
+    "foodNm": "가자미찌개",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100024",
+    "foodNm": "가지",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100028",
+    "foodNm": "가지국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "맑은장국",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100029",
+    "foodNm": "가지김치",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "야채김치",
+    "tradFoodCnt": "13"
+  },
+  {
+    "foodCd": "100030",
+    "foodNm": "가지나물",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "숙채",
+    "tradFoodCnt": "9"
+  },
+  {
+    "foodCd": "100031",
+    "foodNm": "가지누르미",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100033",
+    "foodNm": "가지말림",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100034",
+    "foodNm": "가지선",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "선",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100035",
+    "foodNm": "가지장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100037",
+    "foodNm": "가지장아찌",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "장아찌",
+    "tradFoodCnt": "10"
+  },
+  {
+    "foodCd": "100039",
+    "foodNm": "가지전",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100040",
+    "foodNm": "가지절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "12"
+  },
+  {
+    "foodCd": "100041",
+    "foodNm": "가지조림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100042",
+    "foodNm": "가지지",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100043",
+    "foodNm": "가지지게미",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100044",
+    "foodNm": "가지지게미절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "100047",
+    "foodNm": "가지찜",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "9"
+  },
+  {
+    "foodCd": "100050",
+    "foodNm": "가집장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100051",
+    "foodNm": "가짜장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100052",
+    "foodNm": "가초선",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "생회",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100053",
+    "foodNm": "가화육",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "생회",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100054",
+    "foodNm": "간",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "볶음",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100055",
+    "foodNm": "간구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100057",
+    "foodNm": "간무침",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100058",
+    "foodNm": "간볶음",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "볶음",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100060",
+    "foodNm": "간장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "간장",
+    "tradFoodCnt": "18"
+  },
+  {
+    "foodCd": "100061",
+    "foodNm": "간장게장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "발효젓",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100062",
+    "foodNm": "간장구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100064",
+    "foodNm": "간전",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전유어",
+    "tradFoodCnt": "11"
+  },
+  {
+    "foodCd": "100066",
+    "foodNm": "간조림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "조림",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100067",
+    "foodNm": "간회",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100068",
+    "foodNm": "갈근",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100069",
+    "foodNm": "갈근시루떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100070",
+    "foodNm": "갈대가루면",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "국수",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100071",
+    "foodNm": "갈대잎찰밥",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "밥류",
+    "smallClsNm": "흰밥",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100072",
+    "foodNm": "갈분국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "국수",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100074",
+    "foodNm": "갈분다식",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "다식",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100075",
+    "foodNm": "갈분사면화채",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "국수",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100076",
+    "foodNm": "갈분응이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "응이",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "100078",
+    "foodNm": "갈비구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "8"
+  },
+  {
+    "foodCd": "100081",
+    "foodNm": "갈비숙회",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100083",
+    "foodNm": "갈비찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "13"
+  },
+  {
+    "foodCd": "100084",
+    "foodNm": "갈비탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "9"
+  },
+  {
+    "foodCd": "100086",
+    "foodNm": "갈치젓",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "발효젓",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100087",
+    "foodNm": "갈치조림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "조림",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100088",
+    "foodNm": "감",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100090",
+    "foodNm": "감국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100091",
+    "foodNm": "감국나물",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "숙채",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100092",
+    "foodNm": "감국싹죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100093",
+    "foodNm": "감국잎",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "고명류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100094",
+    "foodNm": "감국전",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100096",
+    "foodNm": "귤",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "100098",
+    "foodNm": "귤정과",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "정과",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100100",
+    "foodNm": "감꼭지",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100102",
+    "foodNm": "감떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "100106",
+    "foodNm": "감사과",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "유밀과",
+    "tradFoodCnt": "16"
+  },
+  {
+    "foodCd": "100107",
+    "foodNm": "감스프",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100108",
+    "foodNm": "감식초",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "8"
+  },
+  {
+    "foodCd": "100110",
+    "foodNm": "감나무잎전",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100117",
+    "foodNm": "감자만두",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "만두",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100118",
+    "foodNm": "감자밥",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "밥류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100119",
+    "foodNm": "감자병",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100120",
+    "foodNm": "감자장아찌",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "장아찌",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100122",
+    "foodNm": "감자조림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "조림",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100123",
+    "foodNm": "감자튀김",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100126",
+    "foodNm": "감주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "100127",
+    "foodNm": "감창약",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100128",
+    "foodNm": "감초",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100129",
+    "foodNm": "감초탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100132",
+    "foodNm": "감화부",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100133",
+    "foodNm": "소내장회",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "생회",
+    "tradFoodCnt": "21"
+  },
+  {
+    "foodCd": "100134",
+    "foodNm": "갓김치",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "야채김치",
+    "tradFoodCnt": "8"
+  },
+  {
+    "foodCd": "100135",
+    "foodNm": "갓말림",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100138",
+    "foodNm": "갓절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100139",
+    "foodNm": "갓채",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "생채",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100140",
+    "foodNm": "귤차",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "다류",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "100141",
+    "foodNm": "강낭콩",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100142",
+    "foodNm": "강된장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "된장",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100143",
+    "foodNm": "강분다식",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "다식",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100145",
+    "foodNm": "강정",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "유과",
+    "tradFoodCnt": "36"
+  },
+  {
+    "foodCd": "100146",
+    "foodNm": "강정고명",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "유과",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100150",
+    "foodNm": "강죽차",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "다류",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100153",
+    "foodNm": "개고기",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "8"
+  },
+  {
+    "foodCd": "100155",
+    "foodNm": "개고기구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100156",
+    "foodNm": "개고기동아찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100157",
+    "foodNm": "개고기절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100158",
+    "foodNm": "개고기찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100160",
+    "foodNm": "개떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100161",
+    "foodNm": "개순대",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100162",
+    "foodNm": "개술",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "혼양곡주류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100163",
+    "foodNm": "개암기름",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100164",
+    "foodNm": "개암죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100166",
+    "foodNm": "개장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100167",
+    "foodNm": "개장국누르미",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100169",
+    "foodNm": "개장찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100170",
+    "foodNm": "개피떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "100171",
+    "foodNm": "갱미죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100174",
+    "foodNm": "거위",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100176",
+    "foodNm": "거위구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100177",
+    "foodNm": "거위기름죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100178",
+    "foodNm": "거위만두",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "만두",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100179",
+    "foodNm": "거위식해",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "식해",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100181",
+    "foodNm": "거위절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100182",
+    "foodNm": "거위젓갈",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "발효젓",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100184",
+    "foodNm": "거위포",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100186",
+    "foodNm": "건강법",
+    "foodKindNm": "기타",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100187",
+    "foodNm": "건시단자",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "친떡",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100188",
+    "foodNm": "건알판",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100189",
+    "foodNm": "건약채방",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "보관법",
+    "smallClsNm": "",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100190",
+    "foodNm": "건어물죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100191",
+    "foodNm": "건전편",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100193",
+    "foodNm": "건함시",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100194",
+    "foodNm": "검인가루",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100195",
+    "foodNm": "겉보리",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100196",
+    "foodNm": "게",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "생회",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "100201",
+    "foodNm": "게간랍",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100202",
+    "foodNm": "게구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100203",
+    "foodNm": "게국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100206",
+    "foodNm": "게맥황장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "발효젓",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100208",
+    "foodNm": "게무침",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "초회",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100209",
+    "foodNm": "게묵나물",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "숙채",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100211",
+    "foodNm": "게살만두",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "만두",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100212",
+    "foodNm": "게술",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100213",
+    "foodNm": "게알조치",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100214",
+    "foodNm": "게알찌개",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100216",
+    "foodNm": "게장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "발효젓",
+    "tradFoodCnt": "25"
+  },
+  {
+    "foodCd": "100217",
+    "foodNm": "게적",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "적",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100218",
+    "foodNm": "게전",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전",
+    "tradFoodCnt": "15"
+  },
+  {
+    "foodCd": "100220",
+    "foodNm": "게젓",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "발효젓",
+    "tradFoodCnt": "26"
+  },
+  {
+    "foodCd": "100222",
+    "foodNm": "게조치",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100224",
+    "foodNm": "게찌개",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100225",
+    "foodNm": "게찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "12"
+  },
+  {
+    "foodCd": "100226",
+    "foodNm": "게탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "8"
+  },
+  {
+    "foodCd": "100227",
+    "foodNm": "게포",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100229",
+    "foodNm": "게회",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "생회",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100231",
+    "foodNm": "겨자",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "26"
+  },
+  {
+    "foodCd": "100236",
+    "foodNm": "겨자절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100237",
+    "foodNm": "겨자김치",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "야채김치",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100238",
+    "foodNm": "겨자선",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "선",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100240",
+    "foodNm": "겨자장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100241",
+    "foodNm": "겨자즙",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100242",
+    "foodNm": "겨자집",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100243",
+    "foodNm": "겨자채",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "생채",
+    "tradFoodCnt": "8"
+  },
+  {
+    "foodCd": "100244",
+    "foodNm": "견과정과",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "정과",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100245",
+    "foodNm": "결명자",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "음료류",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100247",
+    "foodNm": "겸절병",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "지진떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100248",
+    "foodNm": "경감주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100249",
+    "foodNm": "경단",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "삶은떡",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "100250",
+    "foodNm": "경단음료",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "음료류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100251",
+    "foodNm": "경단튀김",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "유밀과",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100252",
+    "foodNm": "경대국수",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "국수",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100254",
+    "foodNm": "경면녹파주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100255",
+    "foodNm": "경액춘주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100256",
+    "foodNm": "경장주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100257",
+    "foodNm": "경지절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100258",
+    "foodNm": "계강과",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "유밀과",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "100259",
+    "foodNm": "계당주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "증류주",
+    "smallClsNm": "약용증류주",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100260",
+    "foodNm": "계명주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "혼양곡주류",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100261",
+    "foodNm": "계소떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100263",
+    "foodNm": "계심",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100264",
+    "foodNm": "계심주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100266",
+    "foodNm": "계피",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100267",
+    "foodNm": "계피가루차",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100268",
+    "foodNm": "계피강정",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "유과",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "100269",
+    "foodNm": "계피다식",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "다식",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100271",
+    "foodNm": "계피주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "혼양곡주류",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100272",
+    "foodNm": "계피죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100275",
+    "foodNm": "고구마밥",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "밥류",
+    "smallClsNm": "흰밥",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100276",
+    "foodNm": "고구마산자",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "유과",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100280",
+    "foodNm": "고기",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "16"
+  },
+  {
+    "foodCd": "100291",
+    "foodNm": "고기구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "9"
+  },
+  {
+    "foodCd": "100292",
+    "foodNm": "고기국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100293",
+    "foodNm": "고기국수",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "국수",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100296",
+    "foodNm": "고기만두",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "만두",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100297",
+    "foodNm": "고기말림",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100300",
+    "foodNm": "고기산적",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "적",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100302",
+    "foodNm": "고기수육",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "18"
+  },
+  {
+    "foodCd": "100303",
+    "foodNm": "고기수제비",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100304",
+    "foodNm": "고기스프",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100305",
+    "foodNm": "고기식해",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "식해",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100306",
+    "foodNm": "고기양념",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100308",
+    "foodNm": "고기장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "조림",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100309",
+    "foodNm": "고기떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100310",
+    "foodNm": "고기장조림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "조림",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100311",
+    "foodNm": "고기전골",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "전골",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100313",
+    "foodNm": "고기절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100314",
+    "foodNm": "고기젓갈",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100315",
+    "foodNm": "고기죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100316",
+    "foodNm": "고기탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100317",
+    "foodNm": "고기포접",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100319",
+    "foodNm": "고둥국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "초",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100320",
+    "foodNm": "고둥죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100322",
+    "foodNm": "고등어숙회",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "숙회",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100323",
+    "foodNm": "고등어젓",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "발효젓",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100324",
+    "foodNm": "고등어조림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "조림",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100325",
+    "foodNm": "고등어찌개",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100327",
+    "foodNm": "고라니주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "혼양곡주류",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100328",
+    "foodNm": "고락찌개",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100330",
+    "foodNm": "고량강죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100332",
+    "foodNm": "고리",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100334",
+    "foodNm": "고리초",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100335",
+    "foodNm": "고물전유어",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전유어",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100337",
+    "foodNm": "고본주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "혼양곡주류",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100338",
+    "foodNm": "고비나물",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "숙채",
+    "tradFoodCnt": "8"
+  },
+  {
+    "foodCd": "100339",
+    "foodNm": "고사떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100340",
+    "foodNm": "고사리",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "100344",
+    "foodNm": "고사리국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "맑은장국",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100345",
+    "foodNm": "고사리나물",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "숙채",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100346",
+    "foodNm": "고사리말림",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100347",
+    "foodNm": "고사리무침",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "숙채",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100348",
+    "foodNm": "고사리장아찌",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100349",
+    "foodNm": "고사리절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100350",
+    "foodNm": "고사리찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "100353",
+    "foodNm": "고수초무침",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "생채",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100355",
+    "foodNm": "고순자채저법",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "생채",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100357",
+    "foodNm": "고아주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100358",
+    "foodNm": "고욤",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100363",
+    "foodNm": "고제탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100366",
+    "foodNm": "고추김치",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "야채김치",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100367",
+    "foodNm": "고추무침",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "숙채",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100368",
+    "foodNm": "고추찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100369",
+    "foodNm": "고추볶음",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "볶음",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100371",
+    "foodNm": "고추잎김치",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "야채김치",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100372",
+    "foodNm": "고추잎나물",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "숙채",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100373",
+    "foodNm": "고추잎장아찌",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "장아찌",
+    "tradFoodCnt": "8"
+  },
+  {
+    "foodCd": "100375",
+    "foodNm": "고추장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "고추장",
+    "tradFoodCnt": "29"
+  },
+  {
+    "foodCd": "100378",
+    "foodNm": "고추장구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100380",
+    "foodNm": "고추장메주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100382",
+    "foodNm": "고추장볶음",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "고추장",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100383",
+    "foodNm": "고추장아찌",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "장아찌",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100384",
+    "foodNm": "고추장찌개",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100385",
+    "foodNm": "고추적",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "적",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100386",
+    "foodNm": "고추전",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100390",
+    "foodNm": "곡식",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100392",
+    "foodNm": "곤약",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100393",
+    "foodNm": "곤쟁이",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "발효젓",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100395",
+    "foodNm": "곤쟁이젓",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "발효젓",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100396",
+    "foodNm": "곤쟁이젓김치",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "배추김치",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100397",
+    "foodNm": "곤쟁이젓깍두기",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "무김치",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100399",
+    "foodNm": "곤포죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100400",
+    "foodNm": "골무떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "친떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100402",
+    "foodNm": "골스프",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100403",
+    "foodNm": "골전",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전유어",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100405",
+    "foodNm": "골조치",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100406",
+    "foodNm": "골탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "10"
+  },
+  {
+    "foodCd": "100407",
+    "foodNm": "곰",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100410",
+    "foodNm": "곰국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "곰국",
+    "tradFoodCnt": "10"
+  },
+  {
+    "foodCd": "100411",
+    "foodNm": "곰발바닥",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100413",
+    "foodNm": "곰찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100416",
+    "foodNm": "곰치쌈",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100420",
+    "foodNm": "곰탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "곰국",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100421",
+    "foodNm": "곱장떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100422",
+    "foodNm": "공갈빵",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100424",
+    "foodNm": "곶감",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100426",
+    "foodNm": "곶감떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "친떡",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100427",
+    "foodNm": "곶감쌈",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100428",
+    "foodNm": "곶감죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "토장국",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100429",
+    "foodNm": "곶감찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100430",
+    "foodNm": "과년건육법",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "보관법",
+    "smallClsNm": "",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100431",
+    "foodNm": "과동감백주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100434",
+    "foodNm": "과일",
+    "foodKindNm": "기술",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100435",
+    "foodNm": "과일인절미",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100436",
+    "foodNm": "과자",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100437",
+    "foodNm": "과주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100438",
+    "foodNm": "과줄",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100439",
+    "foodNm": "과채당초절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100440",
+    "foodNm": "과하주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "혼양곡주류",
+    "tradFoodCnt": "30"
+  },
+  {
+    "foodCd": "100443",
+    "foodNm": "관묵",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100446",
+    "foodNm": "관전자",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100447",
+    "foodNm": "관중",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100448",
+    "foodNm": "관폐",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100449",
+    "foodNm": "광어",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100451",
+    "foodNm": "광제주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100452",
+    "foodNm": "광주백당",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100453",
+    "foodNm": "교맥면",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100454",
+    "foodNm": "교백절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100456",
+    "foodNm": "교주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100457",
+    "foodNm": "교침해",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "발효젓",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100458",
+    "foodNm": "구가주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100461",
+    "foodNm": "구기자",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100462",
+    "foodNm": "구기자나물",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "숙채",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100466",
+    "foodNm": "구기자잎죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100467",
+    "foodNm": "구기자주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "혼양곡주류",
+    "tradFoodCnt": "14"
+  },
+  {
+    "foodCd": "100468",
+    "foodNm": "구기자죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100469",
+    "foodNm": "구기자즙",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "즙",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100470",
+    "foodNm": "구기자차",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "다류",
+    "tradFoodCnt": "8"
+  },
+  {
+    "foodCd": "100472",
+    "foodNm": "구두주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100473",
+    "foodNm": "구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100474",
+    "foodNm": "구일주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100475",
+    "foodNm": "구자",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100476",
+    "foodNm": "구자탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100477",
+    "foodNm": "구절판",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "숙채",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100478",
+    "foodNm": "구절편",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "지진떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100480",
+    "foodNm": "구황",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100483",
+    "foodNm": "구황주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100485",
+    "foodNm": "국미주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "증류주",
+    "smallClsNm": "순곡증류주",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100486",
+    "foodNm": "국수",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "국수",
+    "tradFoodCnt": "27"
+  },
+  {
+    "foodCd": "100487",
+    "foodNm": "국수물",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100488",
+    "foodNm": "국수비빔",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "국수",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "100489",
+    "foodNm": "국수장국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "국수",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100490",
+    "foodNm": "국화",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100491",
+    "foodNm": "국화떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100492",
+    "foodNm": "국화면",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "화채",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100495",
+    "foodNm": "국화잎주악",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "지진떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100497",
+    "foodNm": "국화전",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100499",
+    "foodNm": "국화주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "혼양곡주류",
+    "tradFoodCnt": "17"
+  },
+  {
+    "foodCd": "100500",
+    "foodNm": "국화차",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "다류",
+    "tradFoodCnt": "9"
+  },
+  {
+    "foodCd": "100503",
+    "foodNm": "과일떡",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100504",
+    "foodNm": "군떡",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100505",
+    "foodNm": "군만두",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "만두",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100509",
+    "foodNm": "군배",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100511",
+    "foodNm": "굴",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100513",
+    "foodNm": "굴국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100514",
+    "foodNm": "굴김치",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "9"
+  },
+  {
+    "foodCd": "100515",
+    "foodNm": "굴깍두기",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "무김치",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100517",
+    "foodNm": "굴만두",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "만두",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100518",
+    "foodNm": "굴밥",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "밥류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100519",
+    "foodNm": "굴비",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100520",
+    "foodNm": "굴비찌개",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100521",
+    "foodNm": "굴스프",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100522",
+    "foodNm": "굴연포탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100524",
+    "foodNm": "굴자반",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100526",
+    "foodNm": "굴전",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전",
+    "tradFoodCnt": "9"
+  },
+  {
+    "foodCd": "100527",
+    "foodNm": "굴전골",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "전골",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100529",
+    "foodNm": "굴젓",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "발효젓",
+    "tradFoodCnt": "15"
+  },
+  {
+    "foodCd": "100530",
+    "foodNm": "굴조개",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100531",
+    "foodNm": "굴조개구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100532",
+    "foodNm": "굴죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "100533",
+    "foodNm": "굴찌개",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100534",
+    "foodNm": "굴탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100535",
+    "foodNm": "굴회",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "생회",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "100538",
+    "foodNm": "음료",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "음료류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100540",
+    "foodNm": "권전병",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "지진떡",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100541",
+    "foodNm": "귀리떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100542",
+    "foodNm": "귀리소주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "증류주",
+    "smallClsNm": "순곡증류주",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100545",
+    "foodNm": "귤껍질",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100548",
+    "foodNm": "귤떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "100557",
+    "foodNm": "귤화채",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "화채",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100558",
+    "foodNm": "귤환",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100559",
+    "foodNm": "금강동탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100564",
+    "foodNm": "금중탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100566",
+    "foodNm": "급장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "10"
+  },
+  {
+    "foodCd": "100567",
+    "foodNm": "급주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100568",
+    "foodNm": "급초",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100569",
+    "foodNm": "기국차",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "다류",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100573",
+    "foodNm": "기름",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100576",
+    "foodNm": "기름장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100577",
+    "foodNm": "기와다식",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "다식",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100578",
+    "foodNm": "기장국수",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "국수",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100580",
+    "foodNm": "기장쌀죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100581",
+    "foodNm": "기장인절미",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "친떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100583",
+    "foodNm": "기증편",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100584",
+    "foodNm": "기화청장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "간장",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100586",
+    "foodNm": "김구이",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100587",
+    "foodNm": "김냉국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "9"
+  },
+  {
+    "foodCd": "100588",
+    "foodNm": "김무침",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "숙채",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100589",
+    "foodNm": "김밥",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "밥류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100590",
+    "foodNm": "김부각",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "부각",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100591",
+    "foodNm": "김쌈",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100592",
+    "foodNm": "김자반",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100594",
+    "foodNm": "김치",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "15"
+  },
+  {
+    "foodCd": "100597",
+    "foodNm": "김치냉면",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "냉면",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100599",
+    "foodNm": "김치밥",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "밥류",
+    "smallClsNm": "흰밥",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100600",
+    "foodNm": "김치소",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100601",
+    "foodNm": "김치쌈",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100603",
+    "foodNm": "김치적",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "적",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100604",
+    "foodNm": "김치전",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100605",
+    "foodNm": "김치죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100607",
+    "foodNm": "김치찌개",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100608",
+    "foodNm": "김튀각",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100609",
+    "foodNm": "까치콩죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100610",
+    "foodNm": "깍두기",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "무김치",
+    "tradFoodCnt": "12"
+  },
+  {
+    "foodCd": "100611",
+    "foodNm": "깨",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100612",
+    "foodNm": "깨강정",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "유과",
+    "tradFoodCnt": "10"
+  },
+  {
+    "foodCd": "100613",
+    "foodNm": "깨경단",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "삶은떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100614",
+    "foodNm": "깨국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "음료류",
+    "tradFoodCnt": "10"
+  },
+  {
+    "foodCd": "100615",
+    "foodNm": "깨국수",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "국수",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100617",
+    "foodNm": "깨다식",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "다식",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100618",
+    "foodNm": "깨떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100620",
+    "foodNm": "깨보숭이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100621",
+    "foodNm": "깨산자",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "유과",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100622",
+    "foodNm": "깨설기",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "17"
+  },
+  {
+    "foodCd": "100623",
+    "foodNm": "깨소금",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100624",
+    "foodNm": "깨엿",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100628",
+    "foodNm": "깨잎쌈",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "100629",
+    "foodNm": "깨잎장아찌",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "장아찌",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100630",
+    "foodNm": "깨잎찌개",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100631",
+    "foodNm": "깨장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "된장",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100633",
+    "foodNm": "깨죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100634",
+    "foodNm": "깨편",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100635",
+    "foodNm": "꼬막구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100636",
+    "foodNm": "꼴뚜기구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100638",
+    "foodNm": "꼴뚜기젓",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "발효젓",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100639",
+    "foodNm": "꼽장떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100641",
+    "foodNm": "꽃소금",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100642",
+    "foodNm": "꽃전",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "지진떡",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100645",
+    "foodNm": "꿀",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100646",
+    "foodNm": "꿀경단",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "삶은떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100647",
+    "foodNm": "꿀떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100649",
+    "foodNm": "꿀반죽군떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "지진떡",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100651",
+    "foodNm": "꿀사탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100652",
+    "foodNm": "꿀설기",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100653",
+    "foodNm": "꿀소",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100655",
+    "foodNm": "꿀술",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "100656",
+    "foodNm": "꿀식초",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100658",
+    "foodNm": "꿀죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100659",
+    "foodNm": "꿀타래",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100660",
+    "foodNm": "꿀팥죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100661",
+    "foodNm": "꿀편",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "100662",
+    "foodNm": "꿀황랍",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100663",
+    "foodNm": "꿩",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100664",
+    "foodNm": "꿩김치",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "100665",
+    "foodNm": "꿩구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "32"
+  },
+  {
+    "foodCd": "100666",
+    "foodNm": "꿩국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100670",
+    "foodNm": "꿩냉면",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "냉면",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100672",
+    "foodNm": "꿩만두",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "만두",
+    "tradFoodCnt": "10"
+  },
+  {
+    "foodCd": "100673",
+    "foodNm": "꿩밀떡구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100674",
+    "foodNm": "꿩볶음",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100675",
+    "foodNm": "꿩수제비",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "수제비",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100676",
+    "foodNm": "꿩식해",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "식해",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100677",
+    "foodNm": "꿩장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "된장",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100678",
+    "foodNm": "꿩장조림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "조림",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100679",
+    "foodNm": "꿩적",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "적",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100680",
+    "foodNm": "꿩전",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100681",
+    "foodNm": "꿩전골",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "전골",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100683",
+    "foodNm": "꿩조림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "조림",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100684",
+    "foodNm": "꿩죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "맑은장국",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100686",
+    "foodNm": "꿩찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "100687",
+    "foodNm": "꿩초",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "볶음",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100690",
+    "foodNm": "꿩포",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100691",
+    "foodNm": "꿩회",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "생회",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100692",
+    "foodNm": "나귀곰국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100693",
+    "foodNm": "나귀머리",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100694",
+    "foodNm": "나물",
+    "foodKindNm": "기술",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "숙채",
+    "tradFoodCnt": "9"
+  },
+  {
+    "foodCd": "100699",
+    "foodNm": "나물김치",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "야채김치",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100700",
+    "foodNm": "나물무침",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "숙채",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100703",
+    "foodNm": "나물찌기",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100704",
+    "foodNm": "나박김치",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "무김치",
+    "tradFoodCnt": "12"
+  },
+  {
+    "foodCd": "100705",
+    "foodNm": "나복병",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100706",
+    "foodNm": "낙",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100707",
+    "foodNm": "낙산춘",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100709",
+    "foodNm": "낙지",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100710",
+    "foodNm": "낙지누르미",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100711",
+    "foodNm": "낙지백숙",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "곰국",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100713",
+    "foodNm": "낙지자반",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100714",
+    "foodNm": "낙지전",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전",
+    "tradFoodCnt": "13"
+  },
+  {
+    "foodCd": "100715",
+    "foodNm": "낙지전골",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "전골",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100717",
+    "foodNm": "낙지찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100718",
+    "foodNm": "낙지채",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100719",
+    "foodNm": "낙지포",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100721",
+    "foodNm": "낙지회",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "생회",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100723",
+    "foodNm": "난만두",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "만두",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100724",
+    "foodNm": "난면",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "국수",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100725",
+    "foodNm": "난숙",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "편육",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100726",
+    "foodNm": "난장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "된장",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100727",
+    "foodNm": "난적",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "적",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100728",
+    "foodNm": "남성주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100729",
+    "foodNm": "납육",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100730",
+    "foodNm": "납조",
+    "foodKindNm": "기술",
+    "largeClsNm": "기타",
+    "middleClsNm": "보관법",
+    "smallClsNm": "",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100731",
+    "foodNm": "낭화",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100733",
+    "foodNm": "내부비전국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100734",
+    "foodNm": "내장산적",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100735",
+    "foodNm": "냉면",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "냉면",
+    "tradFoodCnt": "15"
+  },
+  {
+    "foodCd": "100736",
+    "foodNm": "냉이",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100737",
+    "foodNm": "냉이국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "100738",
+    "foodNm": "냉이나물",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "숙채",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100739",
+    "foodNm": "냉이무침",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100740",
+    "foodNm": "냉이죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100741",
+    "foodNm": "냉채",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "냉채",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100742",
+    "foodNm": "너비아니",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "100743",
+    "foodNm": "넘나물",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "화채",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100744",
+    "foodNm": "넘나물채",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "숙채",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100745",
+    "foodNm": "넙치국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "맑은장국",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100746",
+    "foodNm": "넙치알젓",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "발효젓",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100748",
+    "foodNm": "노각겨자김치",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "야채김치",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100749",
+    "foodNm": "노각나물",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "숙채",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100750",
+    "foodNm": "노각생채",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "생채",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100751",
+    "foodNm": "노각장아찌",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "장아찌",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100753",
+    "foodNm": "노루고기",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100756",
+    "foodNm": "노루고기전골",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "전골",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100757",
+    "foodNm": "노루고기포",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100760",
+    "foodNm": "노산춘",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100761",
+    "foodNm": "노을주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100762",
+    "foodNm": "노주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "8"
+  },
+  {
+    "foodCd": "100765",
+    "foodNm": "녹각죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100766",
+    "foodNm": "녹두",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100767",
+    "foodNm": "녹두가루",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100768",
+    "foodNm": "녹두가루다식",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "다식",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100770",
+    "foodNm": "녹두국수",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "국수",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100772",
+    "foodNm": "녹두가루편",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "정과",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100773",
+    "foodNm": "녹두누룩",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100777",
+    "foodNm": "녹두떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "100780",
+    "foodNm": "녹두묵",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "100782",
+    "foodNm": "녹두미음",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100783",
+    "foodNm": "녹두부침",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100785",
+    "foodNm": "녹두소",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100787",
+    "foodNm": "녹두시루떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "25"
+  },
+  {
+    "foodCd": "100789",
+    "foodNm": "녹두주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100790",
+    "foodNm": "녹두죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "11"
+  },
+  {
+    "foodCd": "100791",
+    "foodNm": "녹두즙",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100792",
+    "foodNm": "녹두차",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "다류",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100795",
+    "foodNm": "녹두편",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100796",
+    "foodNm": "녹말",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "100799",
+    "foodNm": "녹말국수",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "국수",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100800",
+    "foodNm": "녹말다식",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "다식",
+    "tradFoodCnt": "9"
+  },
+  {
+    "foodCd": "100801",
+    "foodNm": "녹말떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "정과",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100802",
+    "foodNm": "녹말묵",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "묵",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100804",
+    "foodNm": "녹말응이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "응이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100805",
+    "foodNm": "녹말정과",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "정과",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100806",
+    "foodNm": "녹말편",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "정과",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100807",
+    "foodNm": "녹미주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100809",
+    "foodNm": "녹신죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100810",
+    "foodNm": "녹아압",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100811",
+    "foodNm": "녹용",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100813",
+    "foodNm": "녹운탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "음료류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100814",
+    "foodNm": "녹육",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100816",
+    "foodNm": "녹파주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "8"
+  },
+  {
+    "foodCd": "100818",
+    "foodNm": "농어조림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "조림",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100820",
+    "foodNm": "뇌차",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "다류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100821",
+    "foodNm": "누룩",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "20"
+  },
+  {
+    "foodCd": "100823",
+    "foodNm": "누룩발효",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100824",
+    "foodNm": "양고기국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100825",
+    "foodNm": "누룩장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "9"
+  },
+  {
+    "foodCd": "100826",
+    "foodNm": "누룩절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100827",
+    "foodNm": "누룩주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100828",
+    "foodNm": "누룩죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100829",
+    "foodNm": "누룩즙",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100830",
+    "foodNm": "누르미",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100831",
+    "foodNm": "누름적",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "적",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "100832",
+    "foodNm": "누면",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100833",
+    "foodNm": "누영춘방",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "다류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100836",
+    "foodNm": "느릅나무껍질",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100840",
+    "foodNm": "느릅나무열매누룩",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100841",
+    "foodNm": "느릅나무열매말림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100842",
+    "foodNm": "느릅나무열매장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "된장",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "100844",
+    "foodNm": "느티떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "100845",
+    "foodNm": "느티시루떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100846",
+    "foodNm": "늑압소",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100847",
+    "foodNm": "능금",
+    "foodKindNm": "기술",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100848",
+    "foodNm": "능금단",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100849",
+    "foodNm": "능금미수가루",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100850",
+    "foodNm": "능금술",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100851",
+    "foodNm": "능금음료",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100855",
+    "foodNm": "다시마",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "생채",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100856",
+    "foodNm": "다시마구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100857",
+    "foodNm": "다시마식초",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100858",
+    "foodNm": "다시마자반",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100859",
+    "foodNm": "다시마찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100860",
+    "foodNm": "다시마튀각",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100861",
+    "foodNm": "다식",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "다식",
+    "tradFoodCnt": "57"
+  },
+  {
+    "foodCd": "100864",
+    "foodNm": "다을과",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "다식",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100866",
+    "foodNm": "닥나무잎주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100867",
+    "foodNm": "닥주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "혼양곡주류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100868",
+    "foodNm": "단술",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100869",
+    "foodNm": "단자",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "친떡",
+    "tradFoodCnt": "20"
+  },
+  {
+    "foodCd": "100870",
+    "foodNm": "단호박",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100872",
+    "foodNm": "달걀",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "8"
+  },
+  {
+    "foodCd": "100874",
+    "foodNm": "달걀경단",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "삶은떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100875",
+    "foodNm": "달걀구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100876",
+    "foodNm": "달걀국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "맑은장국",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100877",
+    "foodNm": "달걀국수",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "국수",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100878",
+    "foodNm": "달걀꿀과자",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100879",
+    "foodNm": "달걀누르미",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100881",
+    "foodNm": "달걀볶음",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "볶음",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100882",
+    "foodNm": "달걀선",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "선",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100884",
+    "foodNm": "달걀쌈",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100885",
+    "foodNm": "달걀타락스프",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100887",
+    "foodNm": "달걀자",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100888",
+    "foodNm": "달걀장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100889",
+    "foodNm": "달걀장아찌",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "장아찌",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100890",
+    "foodNm": "달걀장조림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "조림",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100891",
+    "foodNm": "달걀조림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "조림",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100892",
+    "foodNm": "달걀조치",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100893",
+    "foodNm": "달걀죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100894",
+    "foodNm": "달걀지짐이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100895",
+    "foodNm": "달걀찌개",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100896",
+    "foodNm": "달걀탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "100898",
+    "foodNm": "달걀튀김",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100899",
+    "foodNm": "달래장아찌",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "장아찌",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100900",
+    "foodNm": "달래절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100906",
+    "foodNm": "닭가슴살무침",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "냉채",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100910",
+    "foodNm": "닭고기만두",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "삶은떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100911",
+    "foodNm": "닭고기밥",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "밥류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100914",
+    "foodNm": "닭장아찌",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100915",
+    "foodNm": "닭장조림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "조림",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100918",
+    "foodNm": "닭곰탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "곰국",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100919",
+    "foodNm": "닭구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "18"
+  },
+  {
+    "foodCd": "100920",
+    "foodNm": "닭국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "9"
+  },
+  {
+    "foodCd": "100922",
+    "foodNm": "닭김치",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100923",
+    "foodNm": "닭깍두기",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "무김치",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100925",
+    "foodNm": "닭냉면",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "냉면",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100926",
+    "foodNm": "닭냉채",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "냉채",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100927",
+    "foodNm": "닭만두",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100928",
+    "foodNm": "닭모래주머니속껍질구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100929",
+    "foodNm": "닭백숙",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100930",
+    "foodNm": "닭볶음",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "볶음",
+    "tradFoodCnt": "11"
+  },
+  {
+    "foodCd": "100931",
+    "foodNm": "닭볶음탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "볶음",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100933",
+    "foodNm": "닭수육",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100934",
+    "foodNm": "닭스프",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100935",
+    "foodNm": "닭쌈",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100936",
+    "foodNm": "닭적",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "적",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100937",
+    "foodNm": "닭전골",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "전골",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100938",
+    "foodNm": "닭조림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100939",
+    "foodNm": "닭죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "8"
+  },
+  {
+    "foodCd": "100940",
+    "foodNm": "닭찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "27"
+  },
+  {
+    "foodCd": "100941",
+    "foodNm": "닭창자국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100942",
+    "foodNm": "닭탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "100943",
+    "foodNm": "닭튀김",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100944",
+    "foodNm": "닭포",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100945",
+    "foodNm": "닭회",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "생회",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100946",
+    "foodNm": "담두시법",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "보관법",
+    "smallClsNm": "",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100947",
+    "foodNm": "담북장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "된장",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100948",
+    "foodNm": "담수장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100949",
+    "foodNm": "당",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "23"
+  },
+  {
+    "foodCd": "100950",
+    "foodNm": "당귀",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "생채",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "100951",
+    "foodNm": "당귀가루",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100952",
+    "foodNm": "당귀국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100953",
+    "foodNm": "당귀나물",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100954",
+    "foodNm": "당귀다식",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "다식",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "100955",
+    "foodNm": "당귀단자",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "친떡",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100956",
+    "foodNm": "당귀떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100957",
+    "foodNm": "당귀뿌리",
+    "foodKindNm": "기술",
+    "largeClsNm": "기타",
+    "middleClsNm": "보관법",
+    "smallClsNm": "",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100958",
+    "foodNm": "당귀소주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100959",
+    "foodNm": "당귀술",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "지진떡",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100962",
+    "foodNm": "당귀줄기구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100963",
+    "foodNm": "당귀차",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "다류",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100964",
+    "foodNm": "당귀편",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "초",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100965",
+    "foodNm": "당근",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100966",
+    "foodNm": "당근김치",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100967",
+    "foodNm": "당근무침",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "숙채",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100968",
+    "foodNm": "당근절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100969",
+    "foodNm": "당근정과",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "정과",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100970",
+    "foodNm": "당나귀창자",
+    "foodKindNm": "기술",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100971",
+    "foodNm": "당량법주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100973",
+    "foodNm": "당정과",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "정과",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "100974",
+    "foodNm": "대구",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "100975",
+    "foodNm": "대구국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "맑은장국",
+    "tradFoodCnt": "8"
+  },
+  {
+    "foodCd": "100976",
+    "foodNm": "대구껍질누르미",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100977",
+    "foodNm": "대구껍질무침",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "초회",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100978",
+    "foodNm": "대구껍질탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100979",
+    "foodNm": "대구명태찌개",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100981",
+    "foodNm": "대구전유어",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전유어",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100982",
+    "foodNm": "대구조림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "조림",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100983",
+    "foodNm": "대구찌개",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "맑은장국",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100984",
+    "foodNm": "대구회",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "생회",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100986",
+    "foodNm": "대나무잎떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100987",
+    "foodNm": "대나무잎영양밥",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "밥류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100988",
+    "foodNm": "대나무잎주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100989",
+    "foodNm": "대나무잎죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100990",
+    "foodNm": "대나무잎찰밥",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "밥류",
+    "smallClsNm": "흰밥",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100991",
+    "foodNm": "대나무진액주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "100992",
+    "foodNm": "대나무통고기구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100993",
+    "foodNm": "대나무통밥",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "밥류",
+    "smallClsNm": "흰밥",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100994",
+    "foodNm": "대나무통주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100996",
+    "foodNm": "대두",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100997",
+    "foodNm": "대두식초",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100998",
+    "foodNm": "대두장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "100999",
+    "foodNm": "대두주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101000",
+    "foodNm": "대두즙",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "즙",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101001",
+    "foodNm": "대두천세고주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101002",
+    "foodNm": "대마술",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "혼양곡주류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101003",
+    "foodNm": "대만두",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "만두",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "101006",
+    "foodNm": "대맥장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101007",
+    "foodNm": "대맥초",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101009",
+    "foodNm": "대약과",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "유밀과",
+    "tradFoodCnt": "11"
+  },
+  {
+    "foodCd": "101010",
+    "foodNm": "대주백타국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101012",
+    "foodNm": "대추",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "고명류",
+    "tradFoodCnt": "24"
+  },
+  {
+    "foodCd": "101015",
+    "foodNm": "대추경단",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "삶은떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101017",
+    "foodNm": "대추기름",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101018",
+    "foodNm": "대추껍질",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101019",
+    "foodNm": "대추단자",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "친떡",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "101020",
+    "foodNm": "대추떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101021",
+    "foodNm": "대추란",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101022",
+    "foodNm": "대추미음",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "미음",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101023",
+    "foodNm": "대추사향차",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "음료류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101025",
+    "foodNm": "대추송편",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101026",
+    "foodNm": "대추식초",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "10"
+  },
+  {
+    "foodCd": "101027",
+    "foodNm": "대추엿",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101028",
+    "foodNm": "대추엿강정",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "엿강정",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101029",
+    "foodNm": "대추인절미",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "친떡",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "101031",
+    "foodNm": "대추전병",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "지진떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101032",
+    "foodNm": "대추정과",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "정과",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101034",
+    "foodNm": "대추주악",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "지진떡",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "101035",
+    "foodNm": "대추죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101036",
+    "foodNm": "대추차",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "음료류",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101038",
+    "foodNm": "대추탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "음료류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101039",
+    "foodNm": "대추편",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "101041",
+    "foodNm": "대추포",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101044",
+    "foodNm": "대하무침",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "초회",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "101045",
+    "foodNm": "대하볶음",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "볶음",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101047",
+    "foodNm": "대하전",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101049",
+    "foodNm": "대하찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101050",
+    "foodNm": "대합",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101051",
+    "foodNm": "대합구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "101053",
+    "foodNm": "대합식해",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "식해",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101054",
+    "foodNm": "대합요리",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101055",
+    "foodNm": "대합전골",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "전골",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101056",
+    "foodNm": "대합전유어",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전유어",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101057",
+    "foodNm": "대합젓",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "발효젓",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101059",
+    "foodNm": "대합찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101060",
+    "foodNm": "대합회",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "생회",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101062",
+    "foodNm": "대화전유어",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전유어",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101063",
+    "foodNm": "대화찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101065",
+    "foodNm": "더덕구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "101066",
+    "foodNm": "더덕나물",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101067",
+    "foodNm": "더덕된장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101068",
+    "foodNm": "더덕떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101069",
+    "foodNm": "더덕산승",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "지진떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101070",
+    "foodNm": "더덕생채",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "생채",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101071",
+    "foodNm": "더덕자반",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "101072",
+    "foodNm": "더덕장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101073",
+    "foodNm": "더덕장아찌",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "장아찌",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101075",
+    "foodNm": "더덕절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101076",
+    "foodNm": "더덕튀김",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101077",
+    "foodNm": "도꼬마리된장죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101079",
+    "foodNm": "도꼬마리씨죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101080",
+    "foodNm": "도꼬마리잎국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101081",
+    "foodNm": "도꼬마리잎나물",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "숙채",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101082",
+    "foodNm": "도꼬마리차",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "다류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101083",
+    "foodNm": "도라지",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "101084",
+    "foodNm": "도라지나물",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "숙채",
+    "tradFoodCnt": "8"
+  },
+  {
+    "foodCd": "101085",
+    "foodNm": "도라지생채",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "생채",
+    "tradFoodCnt": "10"
+  },
+  {
+    "foodCd": "101086",
+    "foodNm": "도라지식초",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "초",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101087",
+    "foodNm": "도라지식해",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "식해",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101088",
+    "foodNm": "도라지자반",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101089",
+    "foodNm": "도라지장아찌",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101090",
+    "foodNm": "도라지적",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "적",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101091",
+    "foodNm": "도라지정과",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "정과",
+    "tradFoodCnt": "10"
+  },
+  {
+    "foodCd": "101092",
+    "foodNm": "도라지졸임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "정과",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101093",
+    "foodNm": "도라지찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101094",
+    "foodNm": "도라지차",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "다류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101097",
+    "foodNm": "도루묵찌개",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101098",
+    "foodNm": "도미구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "101099",
+    "foodNm": "도미국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "맑은장국",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "101100",
+    "foodNm": "도미국수",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "국수",
+    "tradFoodCnt": "9"
+  },
+  {
+    "foodCd": "101102",
+    "foodNm": "도미백숙",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "곰국",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101103",
+    "foodNm": "도미어채",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101104",
+    "foodNm": "도미자반",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101105",
+    "foodNm": "도미전유어",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전유어",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101106",
+    "foodNm": "도미조림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "조림",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101107",
+    "foodNm": "도미찌개",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101108",
+    "foodNm": "도미찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "11"
+  },
+  {
+    "foodCd": "101109",
+    "foodNm": "도소주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "혼양곡주류",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "101110",
+    "foodNm": "도원주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101111",
+    "foodNm": "도인주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "혼양곡주류",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101112",
+    "foodNm": "도인죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101113",
+    "foodNm": "도적법",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101114",
+    "foodNm": "도주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "혼양곡주류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101115",
+    "foodNm": "도토리다식",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "다식",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101117",
+    "foodNm": "도토리떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101121",
+    "foodNm": "도하백포",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101122",
+    "foodNm": "도화달걀법",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101123",
+    "foodNm": "도화주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "11"
+  },
+  {
+    "foodCd": "101125",
+    "foodNm": "돈전병",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "지진떡",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101126",
+    "foodNm": "돌나물김치",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "야채김치",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101130",
+    "foodNm": "동아선",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "선",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101131",
+    "foodNm": "동아즙",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101134",
+    "foodNm": "동동주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "11"
+  },
+  {
+    "foodCd": "101135",
+    "foodNm": "동마자죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101136",
+    "foodNm": "동미명주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101139",
+    "foodNm": "동부인절미",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "친떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101141",
+    "foodNm": "동아",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "생채",
+    "tradFoodCnt": "8"
+  },
+  {
+    "foodCd": "101144",
+    "foodNm": "동아초절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "장아찌",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101148",
+    "foodNm": "동아국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "맑은장국",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101149",
+    "foodNm": "동아김치",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "과일김치",
+    "tradFoodCnt": "11"
+  },
+  {
+    "foodCd": "101151",
+    "foodNm": "동아돈채",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101154",
+    "foodNm": "동아만두",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "만두",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101155",
+    "foodNm": "동아볶음",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "볶음",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101156",
+    "foodNm": "동아석박지",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "무김치",
+    "tradFoodCnt": "8"
+  },
+  {
+    "foodCd": "101160",
+    "foodNm": "동아장아찌",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "과일김치",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101161",
+    "foodNm": "동아적",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "적",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101162",
+    "foodNm": "동아전",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "101163",
+    "foodNm": "동아절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "101164",
+    "foodNm": "동아정과",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "정과",
+    "tradFoodCnt": "18"
+  },
+  {
+    "foodCd": "101165",
+    "foodNm": "동아주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101166",
+    "foodNm": "동아죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101167",
+    "foodNm": "동아찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "101168",
+    "foodNm": "동아초",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "선",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101171",
+    "foodNm": "동양주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "101172",
+    "foodNm": "동정춘",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101173",
+    "foodNm": "동주초",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101174",
+    "foodNm": "동지",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "무김치",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101175",
+    "foodNm": "동치미",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "김치",
+    "smallClsNm": "무김치",
+    "tradFoodCnt": "30"
+  },
+  {
+    "foodCd": "101176",
+    "foodNm": "동치미냉면",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "냉면",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101179",
+    "foodNm": "동태국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "맑은장국",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101180",
+    "foodNm": "동태전",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101181",
+    "foodNm": "동태조림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "조림",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101182",
+    "foodNm": "동태찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101184",
+    "foodNm": "동파증",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101186",
+    "foodNm": "동화",
+    "foodKindNm": "기술",
+    "largeClsNm": "기타",
+    "middleClsNm": "보관법",
+    "smallClsNm": "",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101187",
+    "foodNm": "동화느름",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101188",
+    "foodNm": "동화선",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "선",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101189",
+    "foodNm": "동화전",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101191",
+    "foodNm": "돼지간",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101193",
+    "foodNm": "돼지간국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101195",
+    "foodNm": "돼지간죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101196",
+    "foodNm": "돼지간초절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101197",
+    "foodNm": "돼지갈비찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101198",
+    "foodNm": "돼지고기",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "101200",
+    "foodNm": "돼지고기구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "9"
+  },
+  {
+    "foodCd": "101201",
+    "foodNm": "돼지고기국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101205",
+    "foodNm": "돼지고기만두",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "만두",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101206",
+    "foodNm": "돼지고기밥",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101207",
+    "foodNm": "돼지고기볶음",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "볶음",
+    "tradFoodCnt": "9"
+  },
+  {
+    "foodCd": "101208",
+    "foodNm": "돼지고기생채",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101209",
+    "foodNm": "돼지고기탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101210",
+    "foodNm": "돼지고기수육",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "101212",
+    "foodNm": "돼지고기식해",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "식해",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101213",
+    "foodNm": "돼지고기쌈",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101214",
+    "foodNm": "돼지고기육포",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101217",
+    "foodNm": "돼지고기장조림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "조림",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "101218",
+    "foodNm": "돼지고기전",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전",
+    "tradFoodCnt": "11"
+  },
+  {
+    "foodCd": "101219",
+    "foodNm": "돼지고기전골",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "전골",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101221",
+    "foodNm": "돼지고기절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101223",
+    "foodNm": "돼지고기조림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "조림",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "101224",
+    "foodNm": "돼지고기찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "9"
+  },
+  {
+    "foodCd": "101226",
+    "foodNm": "돼지고기편",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "편육",
+    "tradFoodCnt": "13"
+  },
+  {
+    "foodCd": "101228",
+    "foodNm": "돼지곱창볶음",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101229",
+    "foodNm": "돼지껍질",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101230",
+    "foodNm": "돼지껍질국수",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101232",
+    "foodNm": "돼지껍질묵",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "편육",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101233",
+    "foodNm": "돼지껍질수정회",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "101234",
+    "foodNm": "돼지껍질식해",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "식해",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101236",
+    "foodNm": "돼지껍질편육",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "편육",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101237",
+    "foodNm": "돼지내장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "편육",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101239",
+    "foodNm": "돼지내장죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101240",
+    "foodNm": "돼지내장탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101243",
+    "foodNm": "돼지머리찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101244",
+    "foodNm": "돼지머리편육",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "편육",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101245",
+    "foodNm": "돼지밥통",
+    "foodKindNm": "기술",
+    "largeClsNm": "주식",
+    "middleClsNm": "밥류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101246",
+    "foodNm": "돼지비계약재",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101247",
+    "foodNm": "돼지순대",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101248",
+    "foodNm": "돼지심장탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101249",
+    "foodNm": "돼지위",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "101251",
+    "foodNm": "돼지위절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101254",
+    "foodNm": "돼지족구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101255",
+    "foodNm": "돼지족발",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101256",
+    "foodNm": "돼지족발고기국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101257",
+    "foodNm": "돼지족발죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101258",
+    "foodNm": "돼지족볶음",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "볶음",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101260",
+    "foodNm": "돼지콩팥국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101261",
+    "foodNm": "돼지콩팥죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "101262",
+    "foodNm": "돼지콩팥탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101263",
+    "foodNm": "돼지콩팥회",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101265",
+    "foodNm": "돼지혀절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101269",
+    "foodNm": "된장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "된장",
+    "tradFoodCnt": "12"
+  },
+  {
+    "foodCd": "101272",
+    "foodNm": "된장찌개",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "101273",
+    "foodNm": "두강주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "순곡주류",
+    "tradFoodCnt": "14"
+  },
+  {
+    "foodCd": "101276",
+    "foodNm": "두견전병",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "지진떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101277",
+    "foodNm": "두견주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "혼양곡주류",
+    "tradFoodCnt": "9"
+  },
+  {
+    "foodCd": "101278",
+    "foodNm": "두견화채",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "화채",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101279",
+    "foodNm": "두골탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "맑은장국",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101282",
+    "foodNm": "두릅",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101284",
+    "foodNm": "두릅나물",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "숙채",
+    "tradFoodCnt": "8"
+  },
+  {
+    "foodCd": "101286",
+    "foodNm": "두릅장아찌",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "장아찌",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101287",
+    "foodNm": "두릅적",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "적",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101288",
+    "foodNm": "두릅전",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전유어",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101290",
+    "foodNm": "두릅회",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "회류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101292",
+    "foodNm": "두부국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "맑은장국",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101293",
+    "foodNm": "두부국밥",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "밥류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101295",
+    "foodNm": "두부떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101296",
+    "foodNm": "두부만두",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "만두",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101297",
+    "foodNm": "두부",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "12"
+  },
+  {
+    "foodCd": "101299",
+    "foodNm": "두부선",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "선",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101300",
+    "foodNm": "두부장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "된장",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101301",
+    "foodNm": "두부장아찌",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "장아찌",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101302",
+    "foodNm": "두부장조림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "조림",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101303",
+    "foodNm": "두부전골",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "전골",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "101304",
+    "foodNm": "두부조림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "조림",
+    "tradFoodCnt": "8"
+  },
+  {
+    "foodCd": "101305",
+    "foodNm": "두부찌개",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "전골류",
+    "smallClsNm": "찌개",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "101306",
+    "foodNm": "두부탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "맑은장국",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101307",
+    "foodNm": "두부피",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101309",
+    "foodNm": "두시",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101310",
+    "foodNm": "두엄장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101311",
+    "foodNm": "두유",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101313",
+    "foodNm": "두주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101314",
+    "foodNm": "두탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101315",
+    "foodNm": "두텁떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "41"
+  },
+  {
+    "foodCd": "101319",
+    "foodNm": "둥글레뿌리",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "다류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101321",
+    "foodNm": "들국화차",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "다류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101322",
+    "foodNm": "들기름",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "101326",
+    "foodNm": "깨시루떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "29"
+  },
+  {
+    "foodCd": "101327",
+    "foodNm": "깨잎",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101329",
+    "foodNm": "깨자반",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101331",
+    "foodNm": "들쭉정과",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "정과",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "101333",
+    "foodNm": "들쭉편",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "정과",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101334",
+    "foodNm": "등골전",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "101336",
+    "foodNm": "등골찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101337",
+    "foodNm": "등나무꽃",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101338",
+    "foodNm": "딸기화채",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "화채",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "101339",
+    "foodNm": "땅콩엿강정",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "엿강정",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101340",
+    "foodNm": "땅콩죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101341",
+    "foodNm": "떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "12"
+  },
+  {
+    "foodCd": "101343",
+    "foodNm": "떡가루",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101344",
+    "foodNm": "떡고추장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "고추장",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101345",
+    "foodNm": "떡국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "떡국",
+    "tradFoodCnt": "9"
+  },
+  {
+    "foodCd": "101347",
+    "foodNm": "떡만두",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "만두",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101348",
+    "foodNm": "떡볶기",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "볶음",
+    "tradFoodCnt": "14"
+  },
+  {
+    "foodCd": "101349",
+    "foodNm": "떡산적",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "적",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101350",
+    "foodNm": "떡수단",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "음료류",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "101351",
+    "foodNm": "떡암죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101352",
+    "foodNm": "떡자반",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101353",
+    "foodNm": "떡찜",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "101354",
+    "foodNm": "떡화채",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "음료류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101355",
+    "foodNm": "똑똑이자반",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "5"
+  },
+  {
+    "foodCd": "101356",
+    "foodNm": "로서아스프",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101357",
+    "foodNm": "마",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101358",
+    "foodNm": "마가루",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101359",
+    "foodNm": "마구아",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101360",
+    "foodNm": "마국수",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "6"
+  },
+  {
+    "foodCd": "101361",
+    "foodNm": "마늘",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "13"
+  },
+  {
+    "foodCd": "101366",
+    "foodNm": "마늘고추장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "고추장",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101367",
+    "foodNm": "마늘냉국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "냉국",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101369",
+    "foodNm": "마늘대말림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101370",
+    "foodNm": "마늘대절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101371",
+    "foodNm": "마늘동아",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101375",
+    "foodNm": "마늘싹",
+    "foodKindNm": "기술",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101377",
+    "foodNm": "마늘잎말림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101379",
+    "foodNm": "마늘장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101380",
+    "foodNm": "마늘장아찌",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "장아찌",
+    "tradFoodCnt": "16"
+  },
+  {
+    "foodCd": "101381",
+    "foodNm": "마늘절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "101383",
+    "foodNm": "마늘종",
+    "foodKindNm": "기술",
+    "largeClsNm": "기타",
+    "middleClsNm": "보관법",
+    "smallClsNm": "",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101384",
+    "foodNm": "마늘종구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101385",
+    "foodNm": "마늘종말림",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101386",
+    "foodNm": "마늘종장아찌",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "장아찌",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101387",
+    "foodNm": "마늘지게미",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101388",
+    "foodNm": "마늘짠지",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "생채",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101390",
+    "foodNm": "마다식",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "다식",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101391",
+    "foodNm": "마단자",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101392",
+    "foodNm": "마떡",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101393",
+    "foodNm": "마른만두",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "만두",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101394",
+    "foodNm": "마른문어쌈",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "전",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101395",
+    "foodNm": "마른반찬",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101397",
+    "foodNm": "마른새우볶음",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "볶음",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101401",
+    "foodNm": "마른조갯살볶음",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "볶음",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101403",
+    "foodNm": "마른편포",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101404",
+    "foodNm": "마름",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "다류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101405",
+    "foodNm": "마름가루",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101408",
+    "foodNm": "마름열매죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101412",
+    "foodNm": "마수제비",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "수제비",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101413",
+    "foodNm": "마자죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101414",
+    "foodNm": "마전병",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "지진떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101415",
+    "foodNm": "마주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "혼양곡주류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101416",
+    "foodNm": "마죽",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "죽류",
+    "smallClsNm": "죽",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "101417",
+    "foodNm": "마탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101418",
+    "foodNm": "막걸리",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "혼양곡주류",
+    "tradFoodCnt": "7"
+  },
+  {
+    "foodCd": "101419",
+    "foodNm": "막우설기",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "떡류",
+    "smallClsNm": "찐떡",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101420",
+    "foodNm": "막장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "된장",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101421",
+    "foodNm": "만나지법",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101422",
+    "foodNm": "만년초",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101423",
+    "foodNm": "만두",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "만두",
+    "tradFoodCnt": "35"
+  },
+  {
+    "foodCd": "101425",
+    "foodNm": "만두국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "만두",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101426",
+    "foodNm": "만두소",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "만두",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "101427",
+    "foodNm": "만두약과",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "유밀과",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101428",
+    "foodNm": "만두유과",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "한과류",
+    "smallClsNm": "유과",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101429",
+    "foodNm": "만두탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101430",
+    "foodNm": "만두튀김",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "만두",
+    "tradFoodCnt": "3"
+  },
+  {
+    "foodCd": "101431",
+    "foodNm": "만이창면",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주식",
+    "middleClsNm": "면류",
+    "smallClsNm": "국수",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101433",
+    "foodNm": "만전향주",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "주류",
+    "middleClsNm": "양조곡주",
+    "smallClsNm": "혼양곡주류",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101434",
+    "foodNm": "만청자기름",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "양념류",
+    "smallClsNm": "양념류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101435",
+    "foodNm": "만초장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101436",
+    "foodNm": "말고기",
+    "foodKindNm": "기술",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "찜",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101439",
+    "foodNm": "갈치장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "간장",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101441",
+    "foodNm": "말린나물",
+    "foodKindNm": "기술",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101443",
+    "foodNm": "말린대구",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101444",
+    "foodNm": "두부구이",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "구이류",
+    "smallClsNm": "구이",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101445",
+    "foodNm": "말린매미",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101450",
+    "foodNm": "말린연유",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101452",
+    "foodNm": "말린오징어",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101453",
+    "foodNm": "말린월과",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "나물류",
+    "smallClsNm": "숙채",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101456",
+    "foodNm": "말린지황",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101458",
+    "foodNm": "말린청어",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101460",
+    "foodNm": "말장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101461",
+    "foodNm": "말장훈조",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101463",
+    "foodNm": "맑은장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101464",
+    "foodNm": "맑은장국",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "맑은장국",
+    "tradFoodCnt": "8"
+  },
+  {
+    "foodCd": "101465",
+    "foodNm": "맑은탕",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "국류",
+    "smallClsNm": "탕류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101469",
+    "foodNm": "맛조개식해",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "식해",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101470",
+    "foodNm": "맛조개젓갈",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "젓갈류",
+    "smallClsNm": "발효젓",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101472",
+    "foodNm": "매듭자반",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "장아찌류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "101473",
+    "foodNm": "매소병",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "음료류",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101474",
+    "foodNm": "매실",
+    "foodKindNm": "단일식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101475",
+    "foodNm": "매실간장",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "조미식",
+    "middleClsNm": "장류",
+    "smallClsNm": "간장",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101477",
+    "foodNm": "매실식초",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "부식",
+    "middleClsNm": "찜류",
+    "smallClsNm": "초",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101478",
+    "foodNm": "매실절임",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101479",
+    "foodNm": "매실정과",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기타",
+    "middleClsNm": "기타",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "4"
+  },
+  {
+    "foodCd": "101481",
+    "foodNm": "매실차",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "다류",
+    "tradFoodCnt": "2"
+  },
+  {
+    "foodCd": "101482",
+    "foodNm": "매실청",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "기타",
+    "tradFoodCnt": "1"
+  },
+  {
+    "foodCd": "101484",
+    "foodNm": "오매자차",
+    "foodKindNm": "복합식품",
+    "largeClsNm": "기호식",
+    "middleClsNm": "음청류",
+    "smallClsNm": "다류",
+    "tradFoodCnt": "2"
+  },
+  
+]}
