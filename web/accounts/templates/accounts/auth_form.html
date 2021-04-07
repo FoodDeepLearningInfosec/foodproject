@@ -1,5 +1,5 @@
 {% extends 'foods/base.html' %}
-{% load bootstrap4 %}
+{% load django_bootstrap5 %}
 
 {% block content %}
 
@@ -16,6 +16,9 @@
 <form action="" method="POST">
   {% csrf_token %}
   {% bootstrap_form form %}
-  {% buttons submit="submit" reset="Cancel" %}{% endbuttons %}
+  {% buttons submit="submit" reset="reset" %}{% endbuttons %}
 </form>
+{% if request.resolver_match.url_name == 'signup' %}
+
+{% endif %}
 {% endblock  %}

@@ -1,0 +1,745 @@
+[{
+  "model": "foods.ingredient",
+  "pk": 1,
+  "fields": {
+    "name": "식초"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 2,
+  "fields": {
+    "name": "무청"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 3,
+  "fields": {
+    "name": "굴"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 4,
+  "fields": {
+    "name": "설탕"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 5,
+  "fields": {
+    "name": "간"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 6,
+  "fields": {
+    "name": "사골"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 7,
+  "fields": {
+    "name": "포도"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 8,
+  "fields": {
+    "name": "후춧가루"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 9,
+  "fields": {
+    "name": "소금"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 10,
+  "fields": {
+    "name": "칼국수"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 11,
+  "fields": {
+    "name": "스"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 12,
+  "fields": {
+    "name": "올리브"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 13,
+  "fields": {
+    "name": "밤"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 14,
+  "fields": {
+    "name": "유장"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 15,
+  "fields": {
+    "name": "달걀"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 16,
+  "fields": {
+    "name": "꽁치"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 17,
+  "fields": {
+    "name": "통깨"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 18,
+  "fields": {
+    "name": "양파"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 19,
+  "fields": {
+    "name": "흰떡"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 20,
+  "fields": {
+    "name": "버섯"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 21,
+  "fields": {
+    "name": "들기름"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 22,
+  "fields": {
+    "name": "두부"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 23,
+  "fields": {
+    "name": "가루"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 24,
+  "fields": {
+    "name": "깨소금"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 25,
+  "fields": {
+    "name": "옷"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 26,
+  "fields": {
+    "name": "양지머리"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 27,
+  "fields": {
+    "name": "물"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 28,
+  "fields": {
+    "name": "맛술"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 29,
+  "fields": {
+    "name": "미나리"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 30,
+  "fields": {
+    "name": "오리"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 31,
+  "fields": {
+    "name": "치즈"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 32,
+  "fields": {
+    "name": "조개"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 33,
+  "fields": {
+    "name": "고사리"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 34,
+  "fields": {
+    "name": "돼지고기"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 35,
+  "fields": {
+    "name": "배추"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 36,
+  "fields": {
+    "name": "고구마"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 37,
+  "fields": {
+    "name": "액젓"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 38,
+  "fields": {
+    "name": "콩나물"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 39,
+  "fields": {
+    "name": "배"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 40,
+  "fields": {
+    "name": "땅콩"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 41,
+  "fields": {
+    "name": "잣"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 42,
+  "fields": {
+    "name": "북어"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 43,
+  "fields": {
+    "name": "감자"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 44,
+  "fields": {
+    "name": "곱창"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 45,
+  "fields": {
+    "name": "고등어"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 46,
+  "fields": {
+    "name": "이스트"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 47,
+  "fields": {
+    "name": "케첩"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 48,
+  "fields": {
+    "name": "우둔"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 49,
+  "fields": {
+    "name": "육수"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 50,
+  "fields": {
+    "name": "청주"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 51,
+  "fields": {
+    "name": "고춧가루"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 52,
+  "fields": {
+    "name": "무즙"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 53,
+  "fields": {
+    "name": "참기름"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 54,
+  "fields": {
+    "name": "갈치"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 55,
+  "fields": {
+    "name": "우스터소스"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 56,
+  "fields": {
+    "name": "생강"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 57,
+  "fields": {
+    "name": "당근"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 58,
+  "fields": {
+    "name": "식용유"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 59,
+  "fields": {
+    "name": "대파"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 60,
+  "fields": {
+    "name": "실파"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 61,
+  "fields": {
+    "name": "멸치젓"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 62,
+  "fields": {
+    "name": "돼지갈비"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 63,
+  "fields": {
+    "name": "양배추"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 64,
+  "fields": {
+    "name": "된장"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 65,
+  "fields": {
+    "name": "술"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 66,
+  "fields": {
+    "name": "오일"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 67,
+  "fields": {
+    "name": "붕장어"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 68,
+  "fields": {
+    "name": "조기"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 69,
+  "fields": {
+    "name": "계란"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 70,
+  "fields": {
+    "name": "소금물"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 71,
+  "fields": {
+    "name": "양념장"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 72,
+  "fields": {
+    "name": "양념"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 73,
+  "fields": {
+    "name": "고추"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 74,
+  "fields": {
+    "name": "느타리버섯"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 75,
+  "fields": {
+    "name": "분태"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 76,
+  "fields": {
+    "name": "올리고당"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 77,
+  "fields": {
+    "name": "다시마"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 78,
+  "fields": {
+    "name": "멸치액젓"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 79,
+  "fields": {
+    "name": "물엿"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 80,
+  "fields": {
+    "name": "토란"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 81,
+  "fields": {
+    "name": "숙주"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 82,
+  "fields": {
+    "name": "새우젓"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 83,
+  "fields": {
+    "name": "멸치"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 84,
+  "fields": {
+    "name": "대추"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 85,
+  "fields": {
+    "name": "닭"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 86,
+  "fields": {
+    "name": "우유"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 87,
+  "fields": {
+    "name": "고추장"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 88,
+  "fields": {
+    "name": "삼겹살"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 89,
+  "fields": {
+    "name": "부추"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 90,
+  "fields": {
+    "name": "명태"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 91,
+  "fields": {
+    "name": "밑"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 92,
+  "fields": {
+    "name": "고추기름"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 93,
+  "fields": {
+    "name": "파"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 94,
+  "fields": {
+    "name": "소스"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 95,
+  "fields": {
+    "name": "후추"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 96,
+  "fields": {
+    "name": "실고추"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 97,
+  "fields": {
+    "name": "갈비"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 98,
+  "fields": {
+    "name": "쪽파"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 99,
+  "fields": {
+    "name": "무"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 100,
+  "fields": {
+    "name": "등심"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 101,
+  "fields": {
+    "name": "감자전"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 102,
+  "fields": {
+    "name": "더덕"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 103,
+  "fields": {
+    "name": "칠리소스"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 104,
+  "fields": {
+    "name": "약간"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 105,
+  "fields": {
+    "name": "닭고기"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 106,
+  "fields": {
+    "name": "갓"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 107,
+  "fields": {
+    "name": "황태"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 108,
+  "fields": {
+    "name": "미역"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 109,
+  "fields": {
+    "name": "토마토"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 110,
+  "fields": {
+    "name": "부채살"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 111,
+  "fields": {
+    "name": "씨유"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 112,
+  "fields": {
+    "name": "밀가루"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 113,
+  "fields": {
+    "name": "콩"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 114,
+  "fields": {
+    "name": "튀김"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 115,
+  "fields": {
+    "name": "위트"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 116,
+  "fields": {
+    "name": "청어"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 117,
+  "fields": {
+    "name": "쇠고기"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 118,
+  "fields": {
+    "name": "흑설탕"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 119,
+  "fields": {
+    "name": "소고기"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 120,
+  "fields": {
+    "name": "표고버섯"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 121,
+  "fields": {
+    "name": "간장"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 122,
+  "fields": {
+    "name": "마늘"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 123,
+  "fields": {
+    "name": "베이킹파우더"
+  }
+}, {
+  "model": "foods.ingredient",
+  "pk": 124,
+  "fields": {
+    "name": "국"
+  }
+}]
