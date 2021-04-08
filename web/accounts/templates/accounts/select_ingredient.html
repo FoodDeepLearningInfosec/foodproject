@@ -1,0 +1,17 @@
+{% extends 'foods/base.html' %}
+
+{% block ingredient %}
+<br>
+<h1>비선호 재료를 선택해 주세요</h1>
+<form action="{% url 'accounts:change_food' %}" method="POST">
+  {% csrf_token %}
+  <button type="submit" class="btn btn-primary">Submit</button>
+  <br>
+  {% for ingre in ingres %}
+  <div class="form-check form-check-inline">
+    <input class="form-check-input" type="checkbox" id="{{ingre.pk}}" name="hateingredient" value="{{ingre.pk}}">
+    <label class="form-check-label" for="{{ingre.pk}}">{{ ingre.name }}</label>
+  </div>
+  {% endfor %}
+</form>
+{% endblock ingredient %}

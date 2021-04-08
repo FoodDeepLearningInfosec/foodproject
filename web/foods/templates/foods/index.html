@@ -1,0 +1,58 @@
+{% extends 'foods/base.html' %}
+{% load static %}
+
+{% block index %}
+
+
+
+{% if user.is_authenticated %}
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#create">
+  Food Image Input
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="create" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  {% include 'foods/_modal_create.html' %}
+</div>
+<br>
+<br>
+<br>
+<div class="container  r row">
+  {% for food_info in  food_infos   %}
+  <div class="card mb-3">
+    <img src="{{ food_info.img.url }}" class="card-img-top" alt="{{ food_info.food.name }}"
+      style="object-fit:contain; height:400px;">
+    <div class="card-body">
+      <h5 class="card-title">{{ food_info.food.name }}</h5>
+      <p class="card-text">
+        <div class="accordion" id="accordionExample{{food_info.pk}}">
+          
+            {% include 'foods/_accordian.html' %}
+        </div>
+      </p>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% else %}
+<br>
+<br>
+<br>
+<br>
+<br>
+<div class="d-flex justify-content-around">
+  <h1>로그인이 필요한 페이지 입니다.</h1>
+</div>
+<div class="d-flex justify-content-around">
+  <a href="{% url 'accounts:login' %}" class="btn btn-primary btn-lg btn-block active" role="button"
+    aria-pressed="true">Log In</a>
+  <a href="{% url 'accounts:signup' %}" class="btn btn-secondary btn-lg btn-block active" role="button"
+    aria-pressed="true">Sig In</a>
+</div>
+
+
+{% endif %}
+
+
+{% endblock  %}

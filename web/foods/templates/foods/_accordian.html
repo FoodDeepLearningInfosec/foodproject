@@ -1,0 +1,45 @@
+<div class="accordion-item">
+  <h2 class="accordion-header" id="headingOne">
+    <button class="accordion-button" type="button" data-bs-toggle="collapse"
+      data-bs-target="#collapseOne{{food_info.pk}}" aria-expanded="true" aria-controls="collapseOne{{food_info.pk}}">
+      Ingredients
+    </button>
+  </h2>
+
+  <div id="collapseOne{{food_info.pk}}" class="accordion-collapse collapse" aria-labelledby="headingOne"
+    data-bs-parent="#accordionExample{{food_info.pk}}">
+    <div class="accordion-body">
+      <h3>
+      {% for ingre in food_info.food.ingredients.all %}
+<span class="badge rounded-pill bg-secondary">{{ingre.name}}</span>
+      {% endfor %}
+      </h3>
+    </div>
+  </div>
+</div>
+
+<div class="accordion-item">
+
+  <h2 class="accordion-header" id="headingTwo">
+    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+      data-bs-target="#collapseTwo{{food_info.pk}}" aria-expanded="false" aria-controls="collapseTwo{{food_info.pk}}">
+      My Non-preferred Ingredients
+    </button>
+  </h2>
+
+  <div id="collapseTwo{{food_info.pk}}" class="accordion-collapse collapse show" aria-labelledby="headingTwo"
+    data-bs-parent="#accordionExample{{food_info.pk}}">
+    <div class="accordion-body">
+      <h1>
+      {% for ingre in food_info.food.ingredients.all %}
+      {% for hate in user.hateingredient.all %}
+      {% if hate.pk == ingre.pk %}
+      <span class="badge rounded-pill bg-warning text-dark">{{hate.name}}</span>
+      {% endif %}
+      {% endfor %}
+      {% endfor %}
+      </h1>
+    </div>
+  </div>
+
+</div>

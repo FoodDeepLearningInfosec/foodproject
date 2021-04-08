@@ -1,0 +1,1201 @@
+[{
+  "model": "foods.food",
+  "pk": 1,
+  "fields": {
+    "name": "갈비구이",
+    "ingredients": [97, 8, 49, 50, 104, 39, 53, 121, 65, 24, 4, 122, 93, 34, 119],
+    "category": 1
+  }
+}, {
+  "model": "foods.food",
+  "pk": 2,
+  "fields": {
+    "name": "갈치구이",
+    "ingredients": [54, 53, 24, 121, 122, 93],
+    "category": 1
+  }
+}, {
+  "model": "foods.food",
+  "pk": 3,
+  "fields": {
+    "name": "고등어구이",
+    "ingredients": [45, 58, 9],
+    "category": 1
+  }
+}, {
+  "model": "foods.food",
+  "pk": 4,
+  "fields": {
+    "name": "곱창구이",
+    "ingredients": [9, 8, 50, 43, 58, 122, 44, 112],
+    "category": 1
+  }
+}, {
+  "model": "foods.food",
+  "pk": 5,
+  "fields": {
+    "name": "닭갈비",
+    "ingredients": [36, 87, 63, 51, 56, 105, 57, 121, 122, 4, 93, 19],
+    "category": 1
+  }
+}, {
+  "model": "foods.food",
+  "pk": 6,
+  "fields": {
+    "name": "더덕구이",
+    "ingredients": [102, 87, 1, 71, 53, 14, 121, 24, 4, 122, 59],
+    "category": 1
+  }
+}, {
+  "model": "foods.food",
+  "pk": 7,
+  "fields": {
+    "name": "떡갈비",
+    "ingredients": [62, 9, 50, 53, 121, 4, 122, 93],
+    "category": 1
+  }
+}, {
+  "model": "foods.food",
+  "pk": 8,
+  "fields": {
+    "name": "불고기",
+    "ingredients": [8, 50, 119, 120, 53, 39, 121, 24, 74, 58, 4, 122, 93, 100, 18, 60],
+    "category": 1
+  }
+}, {
+  "model": "foods.food",
+  "pk": 9,
+  "fields": {
+    "name": "삼겹살",
+    "ingredients": [88, 34],
+    "category": 1
+  }
+}, {
+  "model": "foods.food",
+  "pk": 10,
+  "fields": {
+    "name": "장어구이",
+    "ingredients": [79, 27, 9, 50, 87, 51, 56, 71, 8, 104, 73, 121, 122, 4, 93, 67],
+    "category": 1
+  }
+}, {
+  "model": "foods.food",
+  "pk": 11,
+  "fields": {
+    "name": "조개구이",
+    "ingredients": [32],
+    "category": 1
+  }
+}, {
+  "model": "foods.food",
+  "pk": 12,
+  "fields": {
+    "name": "조기구이",
+    "ingredients": [121, 68, 9],
+    "category": 1
+  }
+}, {
+  "model": "foods.food",
+  "pk": 13,
+  "fields": {
+    "name": "황태구이",
+    "ingredients": [99, 4, 52, 51, 53, 107, 76, 17, 18, 21, 87, 56, 28, 121, 58, 122, 95, 60, 59],
+    "category": 1
+  }
+}, {
+  "model": "foods.food",
+  "pk": 14,
+  "fields": {
+    "name": "훈제오리",
+    "ingredients": [30, 9],
+    "category": 1
+  }
+}, {
+  "model": "foods.food",
+  "pk": 15,
+  "fields": {
+    "name": "계란국",
+    "ingredients": [9, 8, 83, 69, 60],
+    "category": 2
+  }
+}, {
+  "model": "foods.food",
+  "pk": 16,
+  "fields": {
+    "name": "떡국",
+    "ingredients": [48, 27, 9, 8, 53, 15, 121, 24, 6, 122, 4, 93, 117, 26, 19, 124],
+    "category": 2
+  }
+}, {
+  "model": "foods.food",
+  "pk": 17,
+  "fields": {
+    "name": "무국",
+    "ingredients": [8, 50, 119, 9, 124, 53, 99, 121, 122, 110, 59],
+    "category": 2
+  }
+}, {
+  "model": "foods.food",
+  "pk": 18,
+  "fields": {
+    "name": "미역국",
+    "ingredients": [27, 9, 53, 121, 108, 122, 117, 124],
+    "category": 2
+  }
+}, {
+  "model": "foods.food",
+  "pk": 19,
+  "fields": {
+    "name": "북엇국",
+    "ingredients": [27, 9, 8, 124, 53, 73, 99, 42, 121, 122, 69, 59],
+    "category": 2
+  }
+}, {
+  "model": "foods.food",
+  "pk": 20,
+  "fields": {
+    "name": "시래기국",
+    "ingredients": [27, 9, 2, 64, 83, 122, 77, 59],
+    "category": 2
+  }
+}, {
+  "model": "foods.food",
+  "pk": 21,
+  "fields": {
+    "name": "육개장",
+    "ingredients": [18, 95, 9, 10, 51, 80, 124, 81, 28, 99, 121, 74, 92, 122, 117, 26, 33, 59],
+    "category": 2
+  }
+}, {
+  "model": "foods.food",
+  "pk": 22,
+  "fields": {
+    "name": "콩나물국",
+    "ingredients": [9, 38, 22, 64, 90, 42, 117],
+    "category": 2
+  }
+}, {
+  "model": "foods.food",
+  "pk": 23,
+  "fields": {
+    "name": "과메기",
+    "ingredients": [116, 16],
+    "category": 3
+  }
+}, {
+  "model": "foods.food",
+  "pk": 24,
+  "fields": {
+    "name": "양념치킨",
+    "ingredients": [40, 5, 7, 47, 101, 9, 8, 50, 11, 103, 105, 72, 75, 109, 18, 111, 79, 23, 114, 25, 115, 85, 86, 118, 87, 55, 58, 91, 122, 123, 94, 95],
+    "category": 3
+  }
+}, {
+  "model": "foods.food",
+  "pk": 25,
+  "fields": {
+    "name": "젓갈",
+    "ingredients": [9],
+    "category": 3
+  }
+}, {
+  "model": "foods.food",
+  "pk": 26,
+  "fields": {
+    "name": "콩자반",
+    "ingredients": [79, 27, 121, 113, 4, 17],
+    "category": 3
+  }
+}, {
+  "model": "foods.food",
+  "pk": 27,
+  "fields": {
+    "name": "편육",
+    "ingredients": [119, 34],
+    "category": 3
+  }
+}, {
+  "model": "foods.food",
+  "pk": 28,
+  "fields": {
+    "name": "피자",
+    "ingredients": [27, 9, 12, 66, 109, 31, 46, 112],
+    "category": 3
+  }
+}, {
+  "model": "foods.food",
+  "pk": 29,
+  "fields": {
+    "name": "후라이드치킨",
+    "ingredients": [9, 105, 58, 95, 69, 112],
+    "category": 3
+  }
+}, {
+  "model": "foods.food",
+  "pk": 30,
+  "fields": {
+    "name": "갓김치",
+    "ingredients": [9, 51, 56, 106, 122, 4, 17, 60, 78],
+    "category": 4
+  }
+}, {
+  "model": "foods.food",
+  "pk": 31,
+  "fields": {
+    "name": "깍두기",
+    "ingredients": [98, 9, 51, 56, 3, 106, 82, 99, 29, 122, 4, 35, 59],
+    "category": 4
+  }
+}, {
+  "model": "foods.food",
+  "pk": 32,
+  "fields": {
+    "name": "나박김치",
+    "ingredients": [9, 51, 56, 72, 99, 29, 122, 93, 96],
+    "category": 4
+  }
+}, {
+  "model": "foods.food",
+  "pk": 33,
+  "fields": {
+    "name": "무생채",
+    "ingredients": [9, 51, 56, 1, 23, 99, 4, 122, 93, 17, 60, 78],
+    "category": 4
+  }
+}, {
+  "model": "foods.food",
+  "pk": 34,
+  "fields": {
+    "name": "배추김치",
+    "ingredients": [70, 98, 27, 9, 51, 56, 82, 99, 4, 122, 35],
+    "category": 4
+  }
+}, {
+  "model": "foods.food",
+  "pk": 35,
+  "fields": {
+    "name": "백김치",
+    "ingredients": [27, 9, 20, 13, 56, 39, 41, 73, 99, 29, 122, 4, 84, 60, 35, 37],
+    "category": 4
+  }
+}, {
+  "model": "foods.food",
+  "pk": 36,
+  "fields": {
+    "name": "부추김치",
+    "ingredients": [61, 51, 56, 89, 122, 4],
+    "category": 4
+  }
+}, {
+  "model": "foods.food",
+  "pk": 37,
+  "fields": {
+    "name": "열무김치",
+    "ingredients": [],
+    "category": 4
+  }
+}, {
+  "model": "foods.food",
+  "pk": 38,
+  "fields": {
+    "name": "오이소박이",
+    "ingredients": [],
+    "category": 4
+  }
+}, {
+  "model": "foods.food",
+  "pk": 39,
+  "fields": {
+    "name": "총각김치",
+    "ingredients": [],
+    "category": 4
+  }
+}, {
+  "model": "foods.food",
+  "pk": 40,
+  "fields": {
+    "name": "파김치",
+    "ingredients": [],
+    "category": 4
+  }
+}, {
+  "model": "foods.food",
+  "pk": 41,
+  "fields": {
+    "name": "가지볶음",
+    "ingredients": [],
+    "category": 5
+  }
+}, {
+  "model": "foods.food",
+  "pk": 42,
+  "fields": {
+    "name": "고사리나물",
+    "ingredients": [],
+    "category": 5
+  }
+}, {
+  "model": "foods.food",
+  "pk": 43,
+  "fields": {
+    "name": "미역줄기볶음",
+    "ingredients": [],
+    "category": 5
+  }
+}, {
+  "model": "foods.food",
+  "pk": 44,
+  "fields": {
+    "name": "숙주나물",
+    "ingredients": [],
+    "category": 5
+  }
+}, {
+  "model": "foods.food",
+  "pk": 45,
+  "fields": {
+    "name": "시금치나물",
+    "ingredients": [],
+    "category": 5
+  }
+}, {
+  "model": "foods.food",
+  "pk": 46,
+  "fields": {
+    "name": "애호박볶음",
+    "ingredients": [],
+    "category": 5
+  }
+}, {
+  "model": "foods.food",
+  "pk": 47,
+  "fields": {
+    "name": "경단",
+    "ingredients": [],
+    "category": 6
+  }
+}, {
+  "model": "foods.food",
+  "pk": 48,
+  "fields": {
+    "name": "꿀떡",
+    "ingredients": [],
+    "category": 6
+  }
+}, {
+  "model": "foods.food",
+  "pk": 49,
+  "fields": {
+    "name": "송편",
+    "ingredients": [],
+    "category": 6
+  }
+}, {
+  "model": "foods.food",
+  "pk": 50,
+  "fields": {
+    "name": "만두",
+    "ingredients": [],
+    "category": 7
+  }
+}, {
+  "model": "foods.food",
+  "pk": 51,
+  "fields": {
+    "name": "라면",
+    "ingredients": [],
+    "category": 8
+  }
+}, {
+  "model": "foods.food",
+  "pk": 52,
+  "fields": {
+    "name": "막국수",
+    "ingredients": [],
+    "category": 8
+  }
+}, {
+  "model": "foods.food",
+  "pk": 53,
+  "fields": {
+    "name": "물냉면",
+    "ingredients": [],
+    "category": 8
+  }
+}, {
+  "model": "foods.food",
+  "pk": 54,
+  "fields": {
+    "name": "비빔냉면",
+    "ingredients": [],
+    "category": 8
+  }
+}, {
+  "model": "foods.food",
+  "pk": 55,
+  "fields": {
+    "name": "수제비",
+    "ingredients": [],
+    "category": 8
+  }
+}, {
+  "model": "foods.food",
+  "pk": 56,
+  "fields": {
+    "name": "열무국수",
+    "ingredients": [],
+    "category": 8
+  }
+}, {
+  "model": "foods.food",
+  "pk": 57,
+  "fields": {
+    "name": "잔치국수",
+    "ingredients": [],
+    "category": 8
+  }
+}, {
+  "model": "foods.food",
+  "pk": 58,
+  "fields": {
+    "name": "짜장면",
+    "ingredients": [],
+    "category": 8
+  }
+}, {
+  "model": "foods.food",
+  "pk": 59,
+  "fields": {
+    "name": "짬뽕",
+    "ingredients": [],
+    "category": 8
+  }
+}, {
+  "model": "foods.food",
+  "pk": 60,
+  "fields": {
+    "name": "쫄면",
+    "ingredients": [],
+    "category": 8
+  }
+}, {
+  "model": "foods.food",
+  "pk": 61,
+  "fields": {
+    "name": "칼국수",
+    "ingredients": [],
+    "category": 8
+  }
+}, {
+  "model": "foods.food",
+  "pk": 62,
+  "fields": {
+    "name": "콩국수",
+    "ingredients": [],
+    "category": 8
+  }
+}, {
+  "model": "foods.food",
+  "pk": 63,
+  "fields": {
+    "name": "꽈리고추무침",
+    "ingredients": [],
+    "category": 9
+  }
+}, {
+  "model": "foods.food",
+  "pk": 64,
+  "fields": {
+    "name": "도라지무침",
+    "ingredients": [],
+    "category": 9
+  }
+}, {
+  "model": "foods.food",
+  "pk": 65,
+  "fields": {
+    "name": "도토리묵",
+    "ingredients": [],
+    "category": 9
+  }
+}, {
+  "model": "foods.food",
+  "pk": 66,
+  "fields": {
+    "name": "잡채",
+    "ingredients": [],
+    "category": 9
+  }
+}, {
+  "model": "foods.food",
+  "pk": 67,
+  "fields": {
+    "name": "콩나물무침",
+    "ingredients": [],
+    "category": 9
+  }
+}, {
+  "model": "foods.food",
+  "pk": 68,
+  "fields": {
+    "name": "홍어무침",
+    "ingredients": [],
+    "category": 9
+  }
+}, {
+  "model": "foods.food",
+  "pk": 69,
+  "fields": {
+    "name": "회무침",
+    "ingredients": [],
+    "category": 9
+  }
+}, {
+  "model": "foods.food",
+  "pk": 70,
+  "fields": {
+    "name": "김밥",
+    "ingredients": [],
+    "category": 10
+  }
+}, {
+  "model": "foods.food",
+  "pk": 71,
+  "fields": {
+    "name": "김치볶음밥",
+    "ingredients": [],
+    "category": 10
+  }
+}, {
+  "model": "foods.food",
+  "pk": 72,
+  "fields": {
+    "name": "누룽지",
+    "ingredients": [],
+    "category": 10
+  }
+}, {
+  "model": "foods.food",
+  "pk": 73,
+  "fields": {
+    "name": "비빔밥",
+    "ingredients": [],
+    "category": 10
+  }
+}, {
+  "model": "foods.food",
+  "pk": 74,
+  "fields": {
+    "name": "새우볶음밥",
+    "ingredients": [],
+    "category": 10
+  }
+}, {
+  "model": "foods.food",
+  "pk": 75,
+  "fields": {
+    "name": "알밥",
+    "ingredients": [],
+    "category": 10
+  }
+}, {
+  "model": "foods.food",
+  "pk": 76,
+  "fields": {
+    "name": "유부초밥",
+    "ingredients": [],
+    "category": 10
+  }
+}, {
+  "model": "foods.food",
+  "pk": 77,
+  "fields": {
+    "name": "잡곡밥",
+    "ingredients": [],
+    "category": 10
+  }
+}, {
+  "model": "foods.food",
+  "pk": 78,
+  "fields": {
+    "name": "주먹밥",
+    "ingredients": [],
+    "category": 10
+  }
+}, {
+  "model": "foods.food",
+  "pk": 79,
+  "fields": {
+    "name": "감자채볶음",
+    "ingredients": [],
+    "category": 11
+  }
+}, {
+  "model": "foods.food",
+  "pk": 80,
+  "fields": {
+    "name": "건새우볶음",
+    "ingredients": [],
+    "category": 11
+  }
+}, {
+  "model": "foods.food",
+  "pk": 81,
+  "fields": {
+    "name": "고추장진미채볶음",
+    "ingredients": [],
+    "category": 11
+  }
+}, {
+  "model": "foods.food",
+  "pk": 82,
+  "fields": {
+    "name": "두부김치",
+    "ingredients": [],
+    "category": 11
+  }
+}, {
+  "model": "foods.food",
+  "pk": 83,
+  "fields": {
+    "name": "떡볶이",
+    "ingredients": [],
+    "category": 11
+  }
+}, {
+  "model": "foods.food",
+  "pk": 84,
+  "fields": {
+    "name": "라볶이",
+    "ingredients": [],
+    "category": 11
+  }
+}, {
+  "model": "foods.food",
+  "pk": 85,
+  "fields": {
+    "name": "멸치볶음",
+    "ingredients": [],
+    "category": 11
+  }
+}, {
+  "model": "foods.food",
+  "pk": 86,
+  "fields": {
+    "name": "소세지볶음",
+    "ingredients": [],
+    "category": 11
+  }
+}, {
+  "model": "foods.food",
+  "pk": 87,
+  "fields": {
+    "name": "어묵볶음",
+    "ingredients": [],
+    "category": 11
+  }
+}, {
+  "model": "foods.food",
+  "pk": 88,
+  "fields": {
+    "name": "오징어채볶음",
+    "ingredients": [],
+    "category": 11
+  }
+}, {
+  "model": "foods.food",
+  "pk": 89,
+  "fields": {
+    "name": "제육볶음",
+    "ingredients": [],
+    "category": 11
+  }
+}, {
+  "model": "foods.food",
+  "pk": 90,
+  "fields": {
+    "name": "주꾸미볶음",
+    "ingredients": [],
+    "category": 11
+  }
+}, {
+  "model": "foods.food",
+  "pk": 91,
+  "fields": {
+    "name": "보쌈",
+    "ingredients": [],
+    "category": 12
+  }
+}, {
+  "model": "foods.food",
+  "pk": 92,
+  "fields": {
+    "name": "수정과",
+    "ingredients": [],
+    "category": 13
+  }
+}, {
+  "model": "foods.food",
+  "pk": 93,
+  "fields": {
+    "name": "식혜",
+    "ingredients": [],
+    "category": 13
+  }
+}, {
+  "model": "foods.food",
+  "pk": 94,
+  "fields": {
+    "name": "간장게장",
+    "ingredients": [],
+    "category": 14
+  }
+}, {
+  "model": "foods.food",
+  "pk": 95,
+  "fields": {
+    "name": "양념게장",
+    "ingredients": [],
+    "category": 14
+  }
+}, {
+  "model": "foods.food",
+  "pk": 96,
+  "fields": {
+    "name": "깻잎장아찌",
+    "ingredients": [],
+    "category": 15
+  }
+}, {
+  "model": "foods.food",
+  "pk": 97,
+  "fields": {
+    "name": "떡꼬치",
+    "ingredients": [],
+    "category": 16
+  }
+}, {
+  "model": "foods.food",
+  "pk": 98,
+  "fields": {
+    "name": "감자전",
+    "ingredients": [],
+    "category": 17
+  }
+}, {
+  "model": "foods.food",
+  "pk": 99,
+  "fields": {
+    "name": "계란말이",
+    "ingredients": [],
+    "category": 17
+  }
+}, {
+  "model": "foods.food",
+  "pk": 100,
+  "fields": {
+    "name": "계란후라이",
+    "ingredients": [],
+    "category": 17
+  }
+}, {
+  "model": "foods.food",
+  "pk": 101,
+  "fields": {
+    "name": "김치전",
+    "ingredients": [],
+    "category": 17
+  }
+}, {
+  "model": "foods.food",
+  "pk": 102,
+  "fields": {
+    "name": "동그랑땡",
+    "ingredients": [],
+    "category": 17
+  }
+}, {
+  "model": "foods.food",
+  "pk": 103,
+  "fields": {
+    "name": "생선전",
+    "ingredients": [],
+    "category": 17
+  }
+}, {
+  "model": "foods.food",
+  "pk": 104,
+  "fields": {
+    "name": "파전",
+    "ingredients": [],
+    "category": 17
+  }
+}, {
+  "model": "foods.food",
+  "pk": 105,
+  "fields": {
+    "name": "호박전",
+    "ingredients": [],
+    "category": 17
+  }
+}, {
+  "model": "foods.food",
+  "pk": 106,
+  "fields": {
+    "name": "곱창전골",
+    "ingredients": [],
+    "category": 18
+  }
+}, {
+  "model": "foods.food",
+  "pk": 107,
+  "fields": {
+    "name": "갈치조림",
+    "ingredients": [],
+    "category": 19
+  }
+}, {
+  "model": "foods.food",
+  "pk": 108,
+  "fields": {
+    "name": "감자조림",
+    "ingredients": [],
+    "category": 19
+  }
+}, {
+  "model": "foods.food",
+  "pk": 109,
+  "fields": {
+    "name": "고등어조림",
+    "ingredients": [],
+    "category": 19
+  }
+}, {
+  "model": "foods.food",
+  "pk": 110,
+  "fields": {
+    "name": "꽁치조림",
+    "ingredients": [],
+    "category": 19
+  }
+}, {
+  "model": "foods.food",
+  "pk": 111,
+  "fields": {
+    "name": "두부조림",
+    "ingredients": [],
+    "category": 19
+  }
+}, {
+  "model": "foods.food",
+  "pk": 112,
+  "fields": {
+    "name": "땅콩조림",
+    "ingredients": [],
+    "category": 19
+  }
+}, {
+  "model": "foods.food",
+  "pk": 113,
+  "fields": {
+    "name": "메추리알장조림",
+    "ingredients": [],
+    "category": 19
+  }
+}, {
+  "model": "foods.food",
+  "pk": 114,
+  "fields": {
+    "name": "연근조림",
+    "ingredients": [],
+    "category": 19
+  }
+}, {
+  "model": "foods.food",
+  "pk": 115,
+  "fields": {
+    "name": "우엉조림",
+    "ingredients": [],
+    "category": 19
+  }
+}, {
+  "model": "foods.food",
+  "pk": 116,
+  "fields": {
+    "name": "장조림",
+    "ingredients": [],
+    "category": 19
+  }
+}, {
+  "model": "foods.food",
+  "pk": 117,
+  "fields": {
+    "name": "코다리조림",
+    "ingredients": [],
+    "category": 19
+  }
+}, {
+  "model": "foods.food",
+  "pk": 118,
+  "fields": {
+    "name": "전복죽",
+    "ingredients": [],
+    "category": 20
+  }
+}, {
+  "model": "foods.food",
+  "pk": 119,
+  "fields": {
+    "name": "호박죽",
+    "ingredients": [],
+    "category": 20
+  }
+}, {
+  "model": "foods.food",
+  "pk": 120,
+  "fields": {
+    "name": "김치찌개",
+    "ingredients": [],
+    "category": 21
+  }
+}, {
+  "model": "foods.food",
+  "pk": 121,
+  "fields": {
+    "name": "닭계장",
+    "ingredients": [],
+    "category": 21
+  }
+}, {
+  "model": "foods.food",
+  "pk": 122,
+  "fields": {
+    "name": "동태찌개",
+    "ingredients": [],
+    "category": 21
+  }
+}, {
+  "model": "foods.food",
+  "pk": 123,
+  "fields": {
+    "name": "된장찌개",
+    "ingredients": [],
+    "category": 21
+  }
+}, {
+  "model": "foods.food",
+  "pk": 124,
+  "fields": {
+    "name": "순두부찌개",
+    "ingredients": [],
+    "category": 21
+  }
+}, {
+  "model": "foods.food",
+  "pk": 125,
+  "fields": {
+    "name": "갈비찜",
+    "ingredients": [],
+    "category": 22
+  }
+}, {
+  "model": "foods.food",
+  "pk": 126,
+  "fields": {
+    "name": "계란찜",
+    "ingredients": [],
+    "category": 22
+  }
+}, {
+  "model": "foods.food",
+  "pk": 127,
+  "fields": {
+    "name": "김치찜",
+    "ingredients": [],
+    "category": 22
+  }
+}, {
+  "model": "foods.food",
+  "pk": 128,
+  "fields": {
+    "name": "꼬막찜",
+    "ingredients": [],
+    "category": 22
+  }
+}, {
+  "model": "foods.food",
+  "pk": 129,
+  "fields": {
+    "name": "닭볶음탕",
+    "ingredients": [],
+    "category": 22
+  }
+}, {
+  "model": "foods.food",
+  "pk": 130,
+  "fields": {
+    "name": "수육",
+    "ingredients": [],
+    "category": 22
+  }
+}, {
+  "model": "foods.food",
+  "pk": 131,
+  "fields": {
+    "name": "순대",
+    "ingredients": [],
+    "category": 22
+  }
+}, {
+  "model": "foods.food",
+  "pk": 132,
+  "fields": {
+    "name": "족발",
+    "ingredients": [],
+    "category": 22
+  }
+}, {
+  "model": "foods.food",
+  "pk": 133,
+  "fields": {
+    "name": "찜닭",
+    "ingredients": [],
+    "category": 22
+  }
+}, {
+  "model": "foods.food",
+  "pk": 134,
+  "fields": {
+    "name": "해물찜",
+    "ingredients": [],
+    "category": 22
+  }
+}, {
+  "model": "foods.food",
+  "pk": 135,
+  "fields": {
+    "name": "갈비탕",
+    "ingredients": [],
+    "category": 23
+  }
+}, {
+  "model": "foods.food",
+  "pk": 136,
+  "fields": {
+    "name": "감자탕",
+    "ingredients": [],
+    "category": 23
+  }
+}, {
+  "model": "foods.food",
+  "pk": 137,
+  "fields": {
+    "name": "곰탕",
+    "ingredients": [],
+    "category": 23
+  }
+}, {
+  "model": "foods.food",
+  "pk": 138,
+  "fields": {
+    "name": "매운탕",
+    "ingredients": [],
+    "category": 23
+  }
+}, {
+  "model": "foods.food",
+  "pk": 139,
+  "fields": {
+    "name": "삼계탕",
+    "ingredients": [],
+    "category": 23
+  }
+}, {
+  "model": "foods.food",
+  "pk": 140,
+  "fields": {
+    "name": "추어탕",
+    "ingredients": [],
+    "category": 23
+  }
+}, {
+  "model": "foods.food",
+  "pk": 141,
+  "fields": {
+    "name": "고추튀김",
+    "ingredients": [],
+    "category": 24
+  }
+}, {
+  "model": "foods.food",
+  "pk": 142,
+  "fields": {
+    "name": "새우튀김",
+    "ingredients": [],
+    "category": 24
+  }
+}, {
+  "model": "foods.food",
+  "pk": 143,
+  "fields": {
+    "name": "오징어튀김",
+    "ingredients": [],
+    "category": 24
+  }
+}, {
+  "model": "foods.food",
+  "pk": 144,
+  "fields": {
+    "name": "약과",
+    "ingredients": [],
+    "category": 25
+  }
+}, {
+  "model": "foods.food",
+  "pk": 145,
+  "fields": {
+    "name": "약식",
+    "ingredients": [],
+    "category": 25
+  }
+}, {
+  "model": "foods.food",
+  "pk": 146,
+  "fields": {
+    "name": "한과",
+    "ingredients": [],
+    "category": 25
+  }
+}, {
+  "model": "foods.food",
+  "pk": 147,
+  "fields": {
+    "name": "멍게",
+    "ingredients": [],
+    "category": 26
+  }
+}, {
+  "model": "foods.food",
+  "pk": 148,
+  "fields": {
+    "name": "산낙지",
+    "ingredients": [],
+    "category": 26
+  }
+}, {
+  "model": "foods.food",
+  "pk": 149,
+  "fields": {
+    "name": "물회",
+    "ingredients": [],
+    "category": 27
+  }
+}, {
+  "model": "foods.food",
+  "pk": 150,
+  "fields": {
+    "name": "육회",
+    "ingredients": [],
+    "category": 27
+  }
+}]

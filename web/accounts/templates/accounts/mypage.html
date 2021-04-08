@@ -1,0 +1,28 @@
+{% extends 'foods/base.html' %}
+
+{% block mypage %}
+<br>
+<br>
+<br>
+<h1>
+  Non-preferred Food Ingredients
+</h1>
+<br>
+<h4>
+  {% for hate in user.hateingredient.all %}
+  <span class="badge rounded-pill bg-warning text-dark">{{hate.name}}</span>
+
+  {% endfor %}
+</h4>
+<br>
+<br>
+<div class="btn-group" role="group" aria-label="Basic mixed styles example">
+
+  <a class="btn btn-primary" href="{% url 'accounts:change_food' %}" role="button">비선호 음식 변경</a>
+  <a class="btn btn-primary" href="{% url 'accounts:update' %}" role="button">회원정보 변경</a>
+  <a class="btn btn-primary" href="{% url 'accounts:change_password' %}" role="button">비밀번호 변경</a>
+</div>
+
+
+
+{% endblock mypage %}
