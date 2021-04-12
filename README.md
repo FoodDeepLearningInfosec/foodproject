@@ -18,7 +18,8 @@ CNN Deep Learning / Pytorch, Google Colab, Django, Pandas, Numpy
 
 - 시스템 아키텍쳐
 
-  ![%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5%20-%206%E1%84%8C%E1%85%A9%20db725124beae4594841b3c8a757d973e/Untitled.png](C:/Users/user/Downloads/기획서 - 6조 db725124beae4594841b3c8a757d973e/Untitled.png)
+ ![Untitled](https://user-images.githubusercontent.com/52685244/113992169-221c7380-988e-11eb-9444-8b607e016525.png)
+
 
 - 추가 발전 방향💥
 
@@ -40,7 +41,7 @@ CNN Deep Learning / Pytorch, Google Colab, Django, Pandas, Numpy
 
    CNN(Convolutional Neural Network) 신경망 사용 
 
-   ![%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5%20-%206%E1%84%8C%E1%85%A9%20db725124beae4594841b3c8a757d973e/cnn.png](C:/Users/user/Downloads/기획서 - 6조 db725124beae4594841b3c8a757d973e/cnn.png)
+![cnn](https://user-images.githubusercontent.com/52685244/113992240-352f4380-988e-11eb-9674-fbd503e740f4.png)
 
 사용할 알고리즘:
 
