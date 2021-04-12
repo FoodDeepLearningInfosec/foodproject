@@ -7,8 +7,6 @@ from django.contrib.auth.decorators import login_required
 from foods.models import Ingredient
 
 
-
-
 # Create your views here.
 def signup(request):
     if request.method == 'POST':
@@ -64,13 +62,10 @@ def change_password(request):
 
 @login_required
 def mypage(request):
-    # user가 올린 음식 데이터들이 필요
     return render(request, 'accounts/mypage.html')
 
 
 def change_food(request):
-    # user_ingredients = request.user
-    # print(request.user.hateingredient)
     if request.method == "POST":
         form = IngredientChangeForm(request.POST, instance=request.user)
         if form.is_valid():
@@ -80,29 +75,3 @@ def change_food(request):
         ingres = Ingredient.objects.all().order_by('name')
         context = {'ingres':ingres}
     return render(request, 'accounts/select_ingredient.html', context)
-
-# @login_required
-# def select_genre(request):
-#     # select genres
-#     user_prefers = request.user.genre_prefers.all()
-#     if request.method == 'POST':
-#         if len(user_prefers.all()):
-#             for pre_value in user_prefers:
-#                 genre = get_object_or_404(Genre, pk=pre_value.pk)
-#                 genre.user_prefers.remove(request.user)
-#             genres = Genre.objects.all()
-#             context = {'genres': genres,}
-#             return render(request, 'movies/select_genre.html', context)  
-#         check_var = request.POST.getlist('checks')
-#         if check_var:
-#             for value in check_var:
-#                 value = int(value)
-#                 genre = get_object_or_404(Genre, pk=value)
-#                 genre.user_prefers.add(request.user)
-#         return redirect('movies:index')
-#     else:
-#         if user_prefers:
-#             return redirect('movies:index')
-#         genres = Genre.objects.all()
-#         context = {'genres': genres,}
-#         return render(request, 'movies/select_genre.html', context)

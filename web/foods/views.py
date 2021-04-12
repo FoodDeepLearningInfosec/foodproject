@@ -17,7 +17,6 @@ food_lst = ['가지볶음', '간장게장', '갈비구이', '갈비찜', '갈비
 def index(request):
     if request.user.is_authenticated:
         food_infos = FoodInfo.objects.filter(user=request.user.pk).order_by('-pk')
-        print(request.user.hateingredient.all())
         context = {'food_infos':food_infos}
         return render(request, 'foods/index.html', context)
     return render(request, 'foods/index.html')
@@ -29,7 +28,6 @@ def _image_prepare(image, target):
     image = image.resize(target)
     image = np.asarray(image).astype(np.float32)/255
     image = np.expand_dims(image, axis=0)
-    # image = imagenet_utils.preprocess_input(image)
 
     return image
 
@@ -42,7 +40,6 @@ def create(request):
     if request.user.is_authenticated:
         if request.method == 'POST':
             
-
             img = request.FILES.get('img')
             img = Image.open(img)
             img = _image_prepare(img, (224,224))
