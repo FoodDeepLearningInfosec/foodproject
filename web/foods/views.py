@@ -49,7 +49,6 @@ def create(request):
             pred = model.predict(img)
             result = pred.argmax()
             food = Food.objects.get(name=food_lst[result])
-            print(food.name)
             foodinfo = FoodInfo(img=request.FILES.get('img'), food=food, user=request.user)
             foodinfo.save()
             return redirect('foods:index')
